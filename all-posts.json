@@ -1,0 +1,4626 @@
+[
+  {
+    "id": 559,
+    "date": "2026-03-23T15:30:34",
+    "date_gmt": "2026-03-23T15:30:34",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/2026/03/23/part-1-of-new-drawing-video/"
+    },
+    "modified": "2026-03-23T16:43:46",
+    "modified_gmt": "2026-03-23T16:43:46",
+    "slug": "part-1-of-new-drawing-video",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2026/03/23/part-1-of-new-drawing-video/",
+    "title": {
+      "rendered": "Part 1 of New Drawing Video"
+    },
+    "content": {
+      "rendered": "<p>Part 1 of a new drawing video.</p>\n<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@stevedrawings2/video/7620446265217666318\" data-video-id=\"7620446265217666318\" style=\"max-width: 605px;min-width: 325px;\">\n<section>\n    <a target=\"_blank\" title=\"@stevedrawings2\" href=\"https://www.tiktok.com/@stevedrawings2?refer=embed\">@stevedrawings2</a><br />\n  </section>\n</blockquote>\n<p><script async src=\"https://www.tiktok.com/embed.js\"></script></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Part 1 of a new drawing video.</p>\n",
+      "protected": false
+    },
+    "author": 0,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-559",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/559",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=559"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/559/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 568,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/559/revisions/568"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=559"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=559"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=559"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 537,
+    "date": "2026-01-02T16:31:49",
+    "date_gmt": "2026-01-02T16:31:49",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=537"
+    },
+    "modified": "2026-03-23T16:43:46",
+    "modified_gmt": "2026-03-23T16:43:46",
+    "slug": "adding-ink-to-an-acrylic-painting",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2026/01/02/adding-ink-to-an-acrylic-painting/",
+    "title": {
+      "rendered": "Adding ink to an acrylic painting"
+    },
+    "content": {
+      "rendered": "<p>Adding ink to an acrylic painting.</p>\n<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@stevedrawings2/video/7590801163390389559\" data-video-id=\"7590801163390389559\" style=\"max-width: 605px;min-width: 325px\">\n<section> <a target=\"_blank\" title=\"@stevedrawings2\" href=\"https://www.tiktok.com/@stevedrawings2?refer=embed\">@stevedrawings2</a> Ink &#038; acrylic paint on paper <a title=\"sb\" target=\"_blank\" href=\"https://www.tiktok.com/tag/sb?refer=embed\">#sb</a> <a target=\"_blank\" title=\"\u266c original sound - Steve\" href=\"https://www.tiktok.com/music/original-sound-7590801319338740494?refer=embed\">\u266c original sound &#8211; Steve</a> </section>\n</blockquote>\n<p><script async src=\"https://www.tiktok.com/embed.js\"></script></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Adding ink to an acrylic painting.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-537",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/537",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=537"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/537/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 569,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/537/revisions/569"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=537"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=537"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=537"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 533,
+    "date": "2026-01-02T14:05:58",
+    "date_gmt": "2026-01-02T14:05:58",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=533"
+    },
+    "modified": "2026-03-23T16:43:46",
+    "modified_gmt": "2026-03-23T16:43:46",
+    "slug": "new-years-illustration",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2026/01/02/new-years-illustration/",
+    "title": {
+      "rendered": "New Years Illustration"
+    },
+    "content": {
+      "rendered": "<p>New Years illustration, early stages.</p>\n<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@stevedrawings2/video/7590763847657573687\" data-video-id=\"7590763847657573687\" style=\"max-width: 605px;min-width: 325px\">\n<section> <a target=\"_blank\" title=\"@stevedrawings2\" href=\"https://www.tiktok.com/@stevedrawings2?refer=embed\">@stevedrawings2</a> More from nye drawing but earlier <a title=\"sb\" target=\"_blank\" href=\"https://www.tiktok.com/tag/sb?refer=embed\">#sb</a> <a target=\"_blank\" title=\"\u266c original sound - Steve\" href=\"https://www.tiktok.com/music/original-sound-7590764078600080183?refer=embed\">\u266c original sound &#8211; Steve</a> </section>\n</blockquote>\n<p><script async src=\"https://www.tiktok.com/embed.js\"></script></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>New Years illustration, early stages.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-533",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/533",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=533"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/533/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 570,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/533/revisions/570"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=533"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=533"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=533"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 531,
+    "date": "2026-01-01T14:31:11",
+    "date_gmt": "2026-01-01T14:31:11",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=531"
+    },
+    "modified": "2026-03-23T16:43:46",
+    "modified_gmt": "2026-03-23T16:43:46",
+    "slug": "process-of-the-creative-process-pt-1",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2026/01/01/process-of-the-creative-process-pt-1/",
+    "title": {
+      "rendered": "Process of the Creative Process Pt.1"
+    },
+    "content": {
+      "rendered": "<h2>\nThis is the Creative Process (as in the title of the illustration) and how I did it.</h2>\n<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@stevedrawings2/video/7590399606287093005\" data-video-id=\"7590399606287093005\" style=\"max-width: 605px;min-width: 325px\">\n<section> <a target=\"_blank\" title=\"@stevedrawings2\" href=\"https://www.tiktok.com/@stevedrawings2?refer=embed\">@stevedrawings2</a> The creative process part 1 <a title=\"sb\" target=\"_blank\" href=\"https://www.tiktok.com/tag/sb?refer=embed\">#sb</a> <a target=\"_blank\" title=\"\u266c original sound - Steve\" href=\"https://www.tiktok.com/music/original-sound-7590399793194961719?refer=embed\">\u266c original sound &#8211; Steve</a> </section>\n</blockquote>\n<p><script async src=\"https://www.tiktok.com/embed.js\"></script></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>The creative process, part 1.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-531",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/531",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=531"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/531/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 571,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/531/revisions/571"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=531"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=531"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=531"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 526,
+    "date": "2025-12-21T15:58:50",
+    "date_gmt": "2025-12-21T15:58:50",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=526"
+    },
+    "modified": "2026-03-23T16:43:46",
+    "modified_gmt": "2026-03-23T16:43:46",
+    "slug": "new-tik-tok",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/12/21/new-tik-tok/",
+    "title": {
+      "rendered": "New tik tok"
+    },
+    "content": {
+      "rendered": "<p>Acrylic on paper.</p>\n<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@stevedrawings2/video/7586339997440134413\" data-video-id=\"7586339997440134413\" style=\"max-width: 605px;min-width: 325px\">\n<section> <a target=\"_blank\" title=\"@stevedrawings2\" href=\"https://www.tiktok.com/@stevedrawings2?refer=embed\">@stevedrawings2</a> Acrylic on paper <a title=\"sb\" target=\"_blank\" href=\"https://www.tiktok.com/tag/sb?refer=embed\">#sb</a> <a target=\"_blank\" title=\"\u266c original sound - Steve\" href=\"https://www.tiktok.com/music/original-sound-7586340018424187662?refer=embed\">\u266c original sound &#8211; Steve</a> </section>\n</blockquote>\n<p><script async src=\"https://www.tiktok.com/embed.js\"></script></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Acrylic on paper.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-526",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/526",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=526"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/526/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 572,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/526/revisions/572"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=526"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=526"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=526"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 523,
+    "date": "2025-12-12T15:28:21",
+    "date_gmt": "2025-12-12T15:28:21",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=523"
+    },
+    "modified": "2026-03-23T16:43:46",
+    "modified_gmt": "2026-03-23T16:43:46",
+    "slug": "working-on-some-drawings",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/12/12/working-on-some-drawings/",
+    "title": {
+      "rendered": "Working on some drawings.."
+    },
+    "content": {
+      "rendered": "<p>Working on some drawings.</p>\n<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@stevedrawings2/video/7582992650945465613\" data-video-id=\"7582992650945465613\" style=\"max-width: 605px;min-width: 325px\">\n<section> <a target=\"_blank\" title=\"@stevedrawings2\" href=\"https://www.tiktok.com/@stevedrawings2?refer=embed\">@stevedrawings2</a> Working on some drawings <a title=\"sb\" target=\"_blank\" href=\"https://www.tiktok.com/tag/sb?refer=embed\">#sb</a> <a title=\"ink\" target=\"_blank\" href=\"https://www.tiktok.com/tag/ink?refer=embed\">#ink</a> <a title=\"art\" target=\"_blank\" href=\"https://www.tiktok.com/tag/art?refer=embed\">#art</a> <a target=\"_blank\" title=\"\u266c original sound - Steve\" href=\"https://www.tiktok.com/music/original-sound-7582992842063219511?refer=embed\">\u266c original sound &#8211; Steve</a> </section>\n</blockquote>\n<p><script async src=\"https://www.tiktok.com/embed.js\"></script></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Working on some drawings.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-523",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/523",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=523"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/523/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 573,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/523/revisions/573"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=523"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=523"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=523"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 518,
+    "date": "2025-12-01T17:06:14",
+    "date_gmt": "2025-12-01T17:06:14",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=518"
+    },
+    "modified": "2026-03-23T16:43:46",
+    "modified_gmt": "2026-03-23T16:43:46",
+    "slug": "tik-tok-vid",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/12/01/tik-tok-vid/",
+    "title": {
+      "rendered": "Tik Tok Vid"
+    },
+    "content": {
+      "rendered": "<p>Another ink composition.</p>\n<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@stevedrawings2/video/7578917488474230030\" data-video-id=\"7578917488474230030\" style=\"max-width: 605px;min-width: 325px\">\n<section> <a target=\"_blank\" title=\"@stevedrawings2\" href=\"https://www.tiktok.com/@stevedrawings2?refer=embed\">@stevedrawings2</a> Another composition in ink <a title=\"sb\" target=\"_blank\" href=\"https://www.tiktok.com/tag/sb?refer=embed\">#sb</a> <a title=\"ink\" target=\"_blank\" href=\"https://www.tiktok.com/tag/ink?refer=embed\">#ink</a> <a title=\"art\" target=\"_blank\" href=\"https://www.tiktok.com/tag/art?refer=embed\">#art</a> <a target=\"_blank\" title=\"\u266c Manhattan Serenade - Tommy Dorsey and His Orchestra &#038; Jo Stafford\" href=\"https://www.tiktok.com/music/Manhattan-Serenade-7036450135571695617?refer=embed\">\u266c Manhattan Serenade &#8211; Tommy Dorsey and His Orchestra &#038; Jo Stafford</a> </section>\n</blockquote>\n<p><script async src=\"https://www.tiktok.com/embed.js\"></script></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Another ink composition.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-518",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/518",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=518"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 4,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/518/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 574,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/518/revisions/574"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=518"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=518"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=518"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 507,
+    "date": "2025-10-09T10:30:25",
+    "date_gmt": "2025-10-09T10:30:25",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=507"
+    },
+    "modified": "2025-10-09T10:30:25",
+    "modified_gmt": "2025-10-09T10:30:25",
+    "slug": "excerpt-from-my-upcoming-book",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/10/09/excerpt-from-my-upcoming-book/",
+    "title": {
+      "rendered": "Excerpt from my upcoming book"
+    },
+    "content": {
+      "rendered": "<p>Here is an entry from my Art book upcoming&#8230;soon to be available I&#8217;m planning, online. The plan is to release the first two volumes first. I&#8217;m typing them up presently. Here is the excerpt.</p>\n<blockquote><p>3/15/25</p>\n<p>Back to sticking to a method. Its then important to stay healthy stay positive and not get overwrought if it doesn&#8217;t work right off the bat. Its like a pair of shoes I tried on recently. I thought \u2018too tight\u2019 then the revelation \u2018just right actually\u2019, but then the third day, or whatever day it was, i realised they weren\u2019t too short but too snug, as in my toes were touching the tops of the shoes not the end of the shoes &#8211; but day two felt so different from day one and day three from day two. The point is just because it doesn&#8217;t work one day keep at it. You have to bear these things out. If someone had given me all these tips that I&#8217;ve enumerated I dont know what i\u2019d do but i would most likely give up\u00a0 on a few if they didn&#8217;t immediately work . There\u2019s really too much to (art) in my opinion to (learn by) going to some art school or even trying to apply everything or thereabouts or even half the stuff in here; you\u2019ll be overwhelmed . I still am&#8230;</p></blockquote>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Here is an entry from my Art book upcoming&#8230;soon to be available I&#8217;m planning, online. The plan is to release the first two volumes first. I&#8217;m typing them up presently. Here is the excerpt. 3/15/25 Back to sticking to a method. Its then important to stay healthy stay positive and not get overwrought if it [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-507",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/507",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=507"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/507/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 508,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/507/revisions/508"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=507"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=507"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=507"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 466,
+    "date": "2025-08-26T16:58:24",
+    "date_gmt": "2025-08-26T16:58:24",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=466"
+    },
+    "modified": "2026-03-23T16:43:46",
+    "modified_gmt": "2026-03-23T16:43:46",
+    "slug": "latest-tik-tok",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/08/26/latest-tik-tok/",
+    "title": {
+      "rendered": "Latest Tik Tok"
+    },
+    "content": {
+      "rendered": "<p>Latest TikTok from the studio.</p>\n<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@stevedrawings2/video/7542938848347655438\" data-video-id=\"7542938848347655438\" style=\"max-width: 605px;min-width: 325px\">\n<section> <a target=\"_blank\" title=\"@stevedrawings2\" href=\"https://www.tiktok.com/@stevedrawings2?refer=embed\">@stevedrawings2</a> Believe in <a title=\"sb\" target=\"_blank\" href=\"https://www.tiktok.com/tag/sb?refer=embed\">#sb</a> <a target=\"_blank\" title=\"\u266c original sound - Steve\" href=\"https://www.tiktok.com/music/original-sound-7542939044334799630?refer=embed\">\u266c original sound &#8211; Steve</a> </section>\n</blockquote>\n<p><script async src=\"https://www.tiktok.com/embed.js\"></script></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Latest TikTok from the studio.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-466",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/466",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=466"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/466/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 575,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/466/revisions/575"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=466"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=466"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=466"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 442,
+    "date": "2025-07-21T15:29:28",
+    "date_gmt": "2025-07-21T15:29:28",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=442"
+    },
+    "modified": "2025-07-21T15:30:05",
+    "modified_gmt": "2025-07-21T15:30:05",
+    "slug": "oiling-out-test",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/07/21/oiling-out-test/",
+    "title": {
+      "rendered": "Oiling out test"
+    },
+    "content": {
+      "rendered": "<p>Trying to see if oiling out works on a rather sunk canvas..the area right now the blue are is pretty oiled so Im going to see in a few days whether its dries glossy or not..</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Trying to see if oiling out works on a rather sunk canvas..the area right now the blue are is pretty oiled so Im going to see in a few days whether its dries glossy or not..</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-442",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/442",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=442"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/442/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 446,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/442/revisions/446"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=442"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=442"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=442"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 434,
+    "date": "2025-06-27T14:08:18",
+    "date_gmt": "2025-06-27T14:08:18",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=434"
+    },
+    "modified": "2025-06-27T14:09:17",
+    "modified_gmt": "2025-06-27T14:09:17",
+    "slug": "use-the-colors-you-see-after-stage-5",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/06/27/use-the-colors-you-see-after-stage-5/",
+    "title": {
+      "rendered": "use the colors you see (after stage 5)"
+    },
+    "content": {
+      "rendered": "<p>or thereabouts&#8230;this is a finishing technique I&#8217;ve been developing and i just wanted to add it here before I forget myself. It will be elaborated on in my upcoming book which is on its way to the publishers!<br />\nI would advise using this as a finishing technique and not before..you can try and experiment sure. Especially for background images&#8230;for those yes it can be used more or less from the beginning..</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>or thereabouts&#8230;this is a finishing technique I&#8217;ve been developing and i just wanted to add it here before I forget myself. It will be elaborated on in my upcoming book which is on its way to the publishers! I would advise using this as a finishing technique and not before..you can try and experiment sure. [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-434",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/434",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=434"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/434/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 436,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/434/revisions/436"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=434"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=434"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=434"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 422,
+    "date": "2025-06-16T15:23:16",
+    "date_gmt": "2025-06-16T15:23:16",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=422"
+    },
+    "modified": "2025-06-16T15:23:16",
+    "modified_gmt": "2025-06-16T15:23:16",
+    "slug": "background-mate-app-im-developing",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/06/16/background-mate-app-im-developing/",
+    "title": {
+      "rendered": "Background Mate App I&#8217;m developing"
+    },
+    "content": {
+      "rendered": "<p>Im working on a web app that picks a contrasting background based on the foreground colors. As in if you have a shape in the foreground with colors this would help you determine background color (based on your selected color choice, as in the choice of color you&#8217;d basically want for the background).Here is the prototype: <a href=\"https://www.stephenbreighner.com/background-mate/\">Background Mate</a></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Im working on a web app that picks a contrasting background based on the foreground colors. As in if you have a shape in the foreground with colors this would help you determine background color (based on your selected color choice, as in the choice of color you&#8217;d basically want for the background).Here is the [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-422",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/422",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=422"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/422/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 426,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/422/revisions/426"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=422"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=422"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=422"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 414,
+    "date": "2025-06-07T19:33:26",
+    "date_gmt": "2025-06-07T19:33:26",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=414"
+    },
+    "modified": "2025-06-07T23:19:58",
+    "modified_gmt": "2025-06-07T23:19:58",
+    "slug": "from-tik-tok-vid",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/06/07/from-tik-tok-vid/",
+    "title": {
+      "rendered": "From tik tok vid"
+    },
+    "content": {
+      "rendered": "<p><a href=\"https://www.stephenbreighner.com/wp-content/uploads/2025/06/Untitled_Artwork-1-1-2.jpg\"><img loading=\"lazy\" decoding=\"async\" src=\"https://www.stephenbreighner.com/wp-content/uploads/2025/06/Untitled_Artwork-1-1-2-237x300.jpg\" alt=\"\" width=\"237\" height=\"300\" class=\"aligncenter size-medium wp-image-415\" srcset=\"https://www.stephenbreighner.com/wp-content/uploads/2025/06/Untitled_Artwork-1-1-2-237x300.jpg 237w, https://www.stephenbreighner.com/wp-content/uploads/2025/06/Untitled_Artwork-1-1-2-810x1024.jpg 810w, https://www.stephenbreighner.com/wp-content/uploads/2025/06/Untitled_Artwork-1-1-2-768x971.jpg 768w, https://www.stephenbreighner.com/wp-content/uploads/2025/06/Untitled_Artwork-1-1-2-1215x1536.jpg 1215w, https://www.stephenbreighner.com/wp-content/uploads/2025/06/Untitled_Artwork-1-1-2.jpg 1361w\" sizes=\"auto, (max-width: 237px) 100vw, 237px\" /></a><br />\n<a href=\"https://www.stephenbreighner.com/wp-content/uploads/2025/06/IMG_1432.jpeg\"><img loading=\"lazy\" decoding=\"async\" src=\"https://www.stephenbreighner.com/wp-content/uploads/2025/06/IMG_1432-237x300.jpeg\" alt=\"\" width=\"237\" height=\"300\" class=\"aligncenter size-medium wp-image-417\" srcset=\"https://www.stephenbreighner.com/wp-content/uploads/2025/06/IMG_1432-237x300.jpeg 237w, https://www.stephenbreighner.com/wp-content/uploads/2025/06/IMG_1432-810x1024.jpeg 810w, https://www.stephenbreighner.com/wp-content/uploads/2025/06/IMG_1432-768x971.jpeg 768w, https://www.stephenbreighner.com/wp-content/uploads/2025/06/IMG_1432-1215x1536.jpeg 1215w, https://www.stephenbreighner.com/wp-content/uploads/2025/06/IMG_1432.jpeg 1361w\" sizes=\"auto, (max-width: 237px) 100vw, 237px\" /></a><br />\nThis is the illustration I did on tik tok but a little more cleaned up&#8230; I might do another version (actually i havent put it on tik tok yet but I plan to)</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This is the illustration I did on tik tok but a little more cleaned up&#8230; I might do another version (actually i havent put it on tik tok yet but I plan to)</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 415,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-414",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/414",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=414"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/414/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 418,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/414/revisions/418"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media/415"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=414"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=414"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=414"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 411,
+    "date": "2025-06-05T17:25:13",
+    "date_gmt": "2025-06-05T17:25:13",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=411"
+    },
+    "modified": "2025-06-05T17:46:53",
+    "modified_gmt": "2025-06-05T17:46:53",
+    "slug": "believe-in-sb",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/06/05/believe-in-sb/",
+    "title": {
+      "rendered": "Believe in SB"
+    },
+    "content": {
+      "rendered": "<p>This I go to more in depth in my upcoming book, and I havent talked about it here but and although you can see what I&#8217;m about to talk about on my tik tok page its a method of painting I&#8217;ve discovered, see if you can figure it out there! </p>\n<p>Or contact me via the <a href=\"/contact\">contact</a> form if you don&#8217;t want to become a complete nerd while painting. What with the level checkers and color theory and all. (although I do use those too sometimes)</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This I go to more in depth in my upcoming book, and I havent talked about it here but and although you can see what I&#8217;m about to talk about on my tik tok page its a method of painting I&#8217;ve discovered, see if you can figure it out there! Or contact me via the [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-411",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/411",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=411"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/411/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 413,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/411/revisions/413"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=411"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=411"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=411"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 406,
+    "date": "2025-06-04T02:20:45",
+    "date_gmt": "2025-06-04T02:20:45",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=406"
+    },
+    "modified": "2025-06-04T02:20:45",
+    "modified_gmt": "2025-06-04T02:20:45",
+    "slug": "things-an-artist-should-have-part-two",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/06/04/things-an-artist-should-have-part-two/",
+    "title": {
+      "rendered": "Things an artist should have part two"
+    },
+    "content": {
+      "rendered": "<p>This is sort of a boring topic, I&#8217;m starting to think but I&#8217;ll go on anyway.<br />\n It took me several years of getting paint on my hands among other <a href=\"https://www.stephenbreighner.com/2025/06/02/things-you-should-have-as-an-artist-part-1/\">places</a> to realize I really should be wearing gloves, so that is what I did. I use the kind as you can see in my videos, you&#8217;d get at hardware stores for around $4.85 or maybe more. I don&#8217;t know what they&#8217;re called but they are most likely called workman&#8217;s gloves. I put on one at a time, as in I only put on one, for the time I&#8217;m painting. That is, on my hand that holds the paint brush and holds the paint and tries to unscrew the bottle. These bottles by the way, Harding if you are seeing this are hard to unscrew/unlodge/ take off the top especially while in the middle of painting when you impatiently try to. But yes the gloves have saved my hands over the years. Gloves on both hands is ideal actually but wearing one on the painting hand usually suffices.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This is sort of a boring topic, I&#8217;m starting to think but I&#8217;ll go on anyway. It took me several years of getting paint on my hands among other places to realize I really should be wearing gloves, so that is what I did. I use the kind as you can see in my videos, [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-406",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/406",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=406"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/406/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 407,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/406/revisions/407"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=406"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=406"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=406"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 404,
+    "date": "2025-06-02T18:42:45",
+    "date_gmt": "2025-06-02T18:42:45",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=404"
+    },
+    "modified": "2025-06-02T18:42:45",
+    "modified_gmt": "2025-06-02T18:42:45",
+    "slug": "things-you-should-have-as-an-artist-part-1",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/06/02/things-you-should-have-as-an-artist-part-1/",
+    "title": {
+      "rendered": "Things you should have as an artist Part 1"
+    },
+    "content": {
+      "rendered": "<p>One thing you should have as an artist..a change of pants. you never know when youre going or where youre going to get paint. It ends up in the darndest places..I don&#8217;t know how but I get it on the seat of my pants! So when I leave the painting area I change my pants, or I try to, or at least I just did that now.<br />\n Better yet, its better to have a smock, ideally one that covers your pants if possible.. So really you should have a smock among other things.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>One thing you should have as an artist..a change of pants. you never know when youre going or where youre going to get paint. It ends up in the darndest places..I don&#8217;t know how but I get it on the seat of my pants! So when I leave the painting area I change my pants, [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-404",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/404",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=404"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/404/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 405,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/404/revisions/405"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=404"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=404"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=404"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 398,
+    "date": "2025-06-02T01:45:15",
+    "date_gmt": "2025-06-02T01:45:15",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=398"
+    },
+    "modified": "2025-06-02T01:45:15",
+    "modified_gmt": "2025-06-02T01:45:15",
+    "slug": "deepseek-suggests-i-post-three-times-a-week",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/06/02/deepseek-suggests-i-post-three-times-a-week/",
+    "title": {
+      "rendered": "Deepseek suggests I post three times a week"
+    },
+    "content": {
+      "rendered": "<p>Among the things discussed with deepseek, whose guidance I sought regarding tik tok was how often one should post there in order to generate a larger audience. To this deepseek advised at least three times a week and gave specific times of day when one should in order for ones videos to be seen by the most people. I actually forget what times they suggested, something along the lines of Monday morning was one; either before work or during. But for me I was already too lost in the thought of how would I begin to be able to do three videos in a week and isn&#8217;t that an insane level of commitment, to pay any further attention to what he was saying. But I should mention that he/she/whatever it is advised to film several scenes all at once, which I think is a good idea, so that one would more efficiently prosecute such an undertaking, which again I think is good. But good or not, is it even in that way still doable? As in, yes sure I could for a few weeks keep it up but then what about for months and months on end? And would I want to do it in the first place?<br />\nThis is what I&#8217;m thinking over at present. I do think however that one video per week doesn&#8217;t seem like enough even to me. Perhaps with my new <a href=\"https://www.stephenbreighner.com/2025/06/02/new-style-videos-coming-soon-on-tok/\">setup </a> and the three or more at a time idea, it won&#8217;t be such a chore!</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Among the things discussed with deepseek, whose guidance I sought regarding tik tok was how often one should post there in order to generate a larger audience. To this deepseek advised at least three times a week and gave specific times of day when one should in order for ones videos to be seen by [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-398",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/398",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=398"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/398/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 399,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/398/revisions/399"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=398"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=398"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=398"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 391,
+    "date": "2025-06-02T01:08:04",
+    "date_gmt": "2025-06-02T01:08:04",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=391"
+    },
+    "modified": "2025-06-02T01:16:37",
+    "modified_gmt": "2025-06-02T01:16:37",
+    "slug": "new-style-videos-coming-soon-on-tok",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/06/02/new-style-videos-coming-soon-on-tok/",
+    "title": {
+      "rendered": "New style videos coming soon on Tok"
+    },
+    "content": {
+      "rendered": "<p>I&#8217;m, thanks to deepseek to whom I&#8217;m deeply in debt or somewhat in debt, now in the process of having come up with a new scheme for filming my instructional videos which go now on Tok but may in the future go to other places. That setup is consistent of a Sony camcorder and tripod..among other things. Those other things being an easel and a computer for editing purposes. On the computer I&#8217;m now switching to davinci resolve, although I hadn&#8217;t used the computer prior at all for tik tok but I had done for other video projects. Now you might ask &#8216; what other places??&#8217; as in &#8216;where might I find them??&#8217; these video, if &#8216;..I don&#8217;t go there?&#8217; Well I&#8217;m thinking of YouTube, or some other venue such as this site here. I don&#8217;t really know yet. I like YouTube, due to the ease of uploading a file and then embedding it,  the fast playback rate but i don&#8217;t like other things about it. For example&#8230;<br />\nAnyway the point is that I should rather soon have some new videos in a new style up very soon!</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>I&#8217;m, thanks to deepseek to whom I&#8217;m deeply in debt or somewhat in debt, now in the process of having come up with a new scheme for filming my instructional videos which go now on Tok but may in the future go to other places. That setup is consistent of a Sony camcorder and tripod..among [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-391",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/391",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=391"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 4,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/391/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 397,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/391/revisions/397"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=391"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=391"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=391"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 385,
+    "date": "2025-05-29T16:34:18",
+    "date_gmt": "2025-05-29T16:34:18",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=385"
+    },
+    "modified": "2025-05-29T16:38:08",
+    "modified_gmt": "2025-05-29T16:38:08",
+    "slug": "working-on-artist-statement",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/05/29/working-on-artist-statement/",
+    "title": {
+      "rendered": "Working on artist statement"
+    },
+    "content": {
+      "rendered": "<p>I have a good one from the book I&#8217;m working on which I hope to also be working on typing this July. Its a book on my artistic journey to some extent but also has included or actually almost entirely is artistic technique I&#8217;ve developed over the years. I was thinking about serializing it here in a special blog-like section.</p>\n<p> I&#8217;m not sure how I&#8217;ll end up having it yet but like I say I hope to finish it and type of my sloppy hand written writings this summer. I will then locate the artist statement therein and put it here as my artist statement.</p>\n<p>Artist statements never really made sense to me as far as I go; I don&#8217;t have a whole lot to state essentially. I just let it happen more or less and I think that this entry in my book (which is composed of entries almost entirely except for the intro) somewhat explains that in a more verbose sort of way if I remember correctly. I do remember thinking it was pretty good at the time and that it might be good as an artists&#8217; statement.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>I have a good one from the book I&#8217;m working on which I hope to also be working on typing this July. Its a book on my artistic journey to some extent but also has included or actually almost entirely is artistic technique I&#8217;ve developed over the years. I was thinking about serializing it here [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-385",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/385",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=385"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 4,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/385/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 389,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/385/revisions/389"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=385"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=385"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=385"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 381,
+    "date": "2025-05-26T11:20:41",
+    "date_gmt": "2025-05-26T11:20:41",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=381"
+    },
+    "modified": "2025-05-26T11:20:41",
+    "modified_gmt": "2025-05-26T11:20:41",
+    "slug": "my-epub-book-is-now-available",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/05/26/my-epub-book-is-now-available/",
+    "title": {
+      "rendered": "my ePub Book is now available"
+    },
+    "content": {
+      "rendered": "<p>A book I wrote hmm almost ten years ago? No, thats not right but almost eight years ago actually if my math is right. Which I then added to here and there over the next eight or however many. Well not much actually, just editing mostly. Anyway, I decided to just try to sell it <a href=\"https://www.stephenbreighner.com/book/janus/\">here</a>. So check <a href=\"https://www.stephenbreighner.com/book/janus/\">it</a> out. There&#8217;s a free preview available for download also.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>A book I wrote hmm almost ten years ago? No, thats not right but almost eight years ago actually if my math is right. Which I then added to here and there over the next eight or however many. Well not much actually, just editing mostly. Anyway, I decided to just try to sell it [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-381",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/381",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=381"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/381/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 382,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/381/revisions/382"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=381"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=381"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=381"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 351,
+    "date": "2025-05-17T17:13:39",
+    "date_gmt": "2025-05-17T17:13:39",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=351"
+    },
+    "modified": "2025-05-17T17:19:04",
+    "modified_gmt": "2025-05-17T17:19:04",
+    "slug": "wow",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/05/17/wow/",
+    "title": {
+      "rendered": "wow"
+    },
+    "content": {
+      "rendered": "<p>I didnt see that coming&#8230;Im still going to put my picks here  though  </p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>I didnt see that coming&#8230;Im still going to put my picks here though</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-351",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/351",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=351"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/351/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 353,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/351/revisions/353"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=351"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=351"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=351"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 346,
+    "date": "2025-05-16T18:15:40",
+    "date_gmt": "2025-05-16T18:15:40",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=346"
+    },
+    "modified": "2025-05-16T18:19:51",
+    "modified_gmt": "2025-05-16T18:19:51",
+    "slug": "celtics-tonight-2-5",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/05/16/celtics-tonight-2-5/",
+    "title": {
+      "rendered": "Celtics tonight. +2.5"
+    },
+    "content": {
+      "rendered": "<p>I think they will edge out the Knicks in game 6. This has nothing to do with art obviously..but Ive decided to just write about whatever I want. I previously worried about keeping this strictly art-related and all but I dont really care about page ranking per se. This is merely a site about st&#8230;this is my site damn it! and Ill write about the Knicks and whomever else.<br />\nIm thinking J. Brown triple double. I may bet that..</p>\n<p>btw sign up for my <a href=\"/contact\">newsletter</a> and I will also be including my latest picks from time to time</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>I think they will edge out the Knicks in game 6. This has nothing to do with art obviously..but Ive decided to just write about whatever I want. I previously worried about keeping this strictly art-related and all but I dont really care about page ranking per se. This is merely a site about st&#8230;this [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-346",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/346",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=346"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 4,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/346/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 350,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/346/revisions/350"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=346"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=346"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=346"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 344,
+    "date": "2025-05-15T16:41:03",
+    "date_gmt": "2025-05-15T16:41:03",
+    "guid": {
+      "rendered": "https://www.stephenbreighner.com/?p=344"
+    },
+    "modified": "2025-05-15T16:41:03",
+    "modified_gmt": "2025-05-15T16:41:03",
+    "slug": "testing",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/05/15/testing/",
+    "title": {
+      "rendered": "testing"
+    },
+    "content": {
+      "rendered": "<p>trying to add a CDN</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>trying to add a CDN</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-344",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/344",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=344"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/344/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 345,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/344/revisions/345"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=344"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=344"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=344"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 332,
+    "date": "2025-05-07T11:56:06",
+    "date_gmt": "2025-05-07T11:56:06",
+    "guid": {
+      "rendered": "https://stephenbreighner.com/?p=332"
+    },
+    "modified": "2025-05-07T11:56:06",
+    "modified_gmt": "2025-05-07T11:56:06",
+    "slug": "illustrations-should-be-up-soon",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/05/07/illustrations-should-be-up-soon/",
+    "title": {
+      "rendered": "Illustrations should be up soon"
+    },
+    "content": {
+      "rendered": "<p>Im adding that page now&#8230; I mean Im working on it now..</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Im adding that page now&#8230; I mean Im working on it now..</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-332",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/332",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=332"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/332/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 333,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/332/revisions/333"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=332"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=332"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=332"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 319,
+    "date": "2025-05-04T17:13:17",
+    "date_gmt": "2025-05-04T17:13:17",
+    "guid": {
+      "rendered": "https://stephenbreighner.com/?p=319"
+    },
+    "modified": "2025-05-04T17:13:17",
+    "modified_gmt": "2025-05-04T17:13:17",
+    "slug": "sb-technique-tiktok-video",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/05/04/sb-technique-tiktok-video/",
+    "title": {
+      "rendered": "Sb Technique (TikTok Video)"
+    },
+    "content": {
+      "rendered": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@stevedrawings2/video/7500639243622976811\" data-video-id=\"7500639243622976811\" style=\"max-width: 605px;min-width: 325px;\" >\n<section> <a target=\"_blank\" title=\"@stevedrawings2\" href=\"https://www.tiktok.com/@stevedrawings2?refer=embed\">@stevedrawings2</a> Sb technique on a painting im working on check stevedrawings.com for other stuff and&#47;or sign up for my class!!! <a title=\"art\" target=\"_blank\" href=\"https://www.tiktok.com/tag/art?refer=embed\">#art</a> <a title=\"sb\" target=\"_blank\" href=\"https://www.tiktok.com/tag/sb?refer=embed\">#sb</a> <a title=\"technique\" target=\"_blank\" href=\"https://www.tiktok.com/tag/technique?refer=embed\">#technique</a> <a title=\"techniques\" target=\"_blank\" href=\"https://www.tiktok.com/tag/techniques?refer=embed\">#techniques</a> <a target=\"_blank\" title=\"\u266c Now We Are Free - Gregorian\" href=\"https://www.tiktok.com/music/Now-We-Are-Free-6733116432256600066?refer=embed\">\u266c Now We Are Free &#8211; Gregorian</a> </section>\n</blockquote>\n<p> <script async src=\"https://www.tiktok.com/embed.js\"></script></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>@stevedrawings2 Sb technique on a painting im working on check stevedrawings.com for other stuff and&#47;or sign up for my class!!! #art #sb #technique #techniques \u266c Now We Are Free &#8211; Gregorian</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-319",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/319",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=319"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/319/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 320,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/319/revisions/320"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=319"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=319"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=319"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 238,
+    "date": "2025-04-27T01:04:26",
+    "date_gmt": "2025-04-27T01:04:26",
+    "guid": {
+      "rendered": "https://stephenbreighner.com/?p=238"
+    },
+    "modified": "2025-04-27T16:40:46",
+    "modified_gmt": "2025-04-27T16:40:46",
+    "slug": "a-painting-im-working-on",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/04/27/a-painting-im-working-on/",
+    "title": {
+      "rendered": "A painting im working on"
+    },
+    "content": {
+      "rendered": "<p><a href=\"https://stephenbreighner.com/wp-content/uploads/2025/04/IMG_1367-scaled.jpeg\"><img loading=\"lazy\" decoding=\"async\" src=\"https://stephenbreighner.com/wp-content/uploads/2025/04/IMG_1367-225x300.jpeg\" alt=\"\" width=\"225\" height=\"300\" class=\"alignnone size-medium wp-image-260\" srcset=\"https://www.stephenbreighner.com/wp-content/uploads/2025/04/IMG_1367-225x300.jpeg 225w, https://www.stephenbreighner.com/wp-content/uploads/2025/04/IMG_1367-768x1024.jpeg 768w, https://www.stephenbreighner.com/wp-content/uploads/2025/04/IMG_1367-1152x1536.jpeg 1152w, https://www.stephenbreighner.com/wp-content/uploads/2025/04/IMG_1367-1536x2048.jpeg 1536w, https://www.stephenbreighner.com/wp-content/uploads/2025/04/IMG_1367-scaled.jpeg 1920w\" sizes=\"auto, (max-width: 225px) 100vw, 225px\" /></a><a href=\"https://stephenbreighner.com/wp-content/uploads/2025/04/IMG_1367-scaled.jpeg\"><img loading=\"lazy\" decoding=\"async\" src=\"https://stephenbreighner.com/wp-content/uploads/2025/04/IMG_1367-150x150.jpeg\" alt=\"\" width=\"150\" height=\"150\" class=\"alignnone size-thumbnail wp-image-260\" /></a></p>\n<p>Been working on this for a while &#8230;lot of glare here&#8230;</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Been working on this for a while &#8230;lot of glare here&#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-238",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/238",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=238"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 5,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/238/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 264,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/238/revisions/264"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=238"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=238"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=238"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 160,
+    "date": "2025-04-22T16:39:22",
+    "date_gmt": "2025-04-22T16:39:22",
+    "guid": {
+      "rendered": "https://stephenbreighner.com/?p=160"
+    },
+    "modified": "2025-04-24T13:43:23",
+    "modified_gmt": "2025-04-24T13:43:23",
+    "slug": "new-year",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/04/22/new-year/",
+    "title": {
+      "rendered": "New Year"
+    },
+    "content": {
+      "rendered": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@stevedrawings2/video/7456115417833164075\" data-video-id=\"7456115417833164075\" style=\"max-width: 605px;min-width: 325px;\" >\n<section> <a target=\"_blank\" title=\"@stevedrawings2\" href=\"https://www.tiktok.com/@stevedrawings2?refer=embed\">@stevedrawings2</a> Working on a few faces <a title=\"art\" target=\"_blank\" href=\"https://www.tiktok.com/tag/art?refer=embed\">#art</a> <a title=\"paintmixing\" target=\"_blank\" href=\"https://www.tiktok.com/tag/paintmixing?refer=embed\">#paintmixing</a> <a title=\"sb\" target=\"_blank\" href=\"https://www.tiktok.com/tag/sb?refer=embed\">#sb</a> <a title=\"paintingart\" target=\"_blank\" href=\"https://www.tiktok.com/tag/paintingart?refer=embed\">#paintingart</a> <a title=\"artober\" target=\"_blank\" href=\"https://www.tiktok.com/tag/artober?refer=embed\">#artober</a> <a title=\"artober\" target=\"_blank\" href=\"https://www.tiktok.com/tag/artober?refer=embed\">#artober</a> <a title=\"painter\" target=\"_blank\" href=\"https://www.tiktok.com/tag/painter?refer=embed\">#painter</a> <a title=\"painting\" target=\"_blank\" href=\"https://www.tiktok.com/tag/painting?refer=embed\">#painting</a> <a target=\"_blank\" title=\"? original sound - JORDAN LOKWA\" href=\"https://www.tiktok.com/music/original-sound-7286773972858686254?refer=embed\">? original sound &#8211; JORDAN LOKWA</a> </section>\n</blockquote>\n<p> <script async src=\"https://www.tiktok.com/embed.js\"></script></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>@stevedrawings2 Working on a few faces #art #paintmixing #sb #paintingart #artober #artober #painter #painting ? original sound &#8211; JORDAN LOKWA</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 176,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-160",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/160",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=160"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/160/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 177,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/160/revisions/177"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media/176"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=160"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=160"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=160"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 157,
+    "date": "2025-04-22T16:38:40",
+    "date_gmt": "2025-04-22T16:38:40",
+    "guid": {
+      "rendered": "https://stephenbreighner.com/?p=157"
+    },
+    "modified": "2025-04-24T13:44:27",
+    "modified_gmt": "2025-04-24T13:44:27",
+    "slug": "shadow-demo-make-sure-to-sign-up-for-my-class-and-ill-show-u-how-i-do-this",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/04/22/shadow-demo-make-sure-to-sign-up-for-my-class-and-ill-show-u-how-i-do-this/",
+    "title": {
+      "rendered": "<h2><b>Shadow demo..</b></h2><p>Make sure to sign up for my class and Ill show u how I do this.."
+    },
+    "content": {
+      "rendered": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@stevedrawings2/video/7466451350633663790\" data-video-id=\"7466451350633663790\" style=\"max-width: 605px;min-width: 325px;\" >\n<section> <a target=\"_blank\" title=\"@stevedrawings2\" href=\"https://www.tiktok.com/@stevedrawings2?refer=embed\">@stevedrawings2</a> Shadow demonstration <a title=\"art\" target=\"_blank\" href=\"https://www.tiktok.com/tag/art?refer=embed\">#art</a> <a title=\"paint\" target=\"_blank\" href=\"https://www.tiktok.com/tag/paint?refer=embed\">#paint</a> <a title=\"oilpainting\" target=\"_blank\" href=\"https://www.tiktok.com/tag/oilpainting?refer=embed\">#oilpainting</a> <a title=\"shadow\" target=\"_blank\" href=\"https://www.tiktok.com/tag/shadow?refer=embed\">#shadow</a> <a target=\"_blank\" title=\"? original sound - Steve\" href=\"https://www.tiktok.com/music/original-sound-7466451568854862635?refer=embed\">? original sound &#8211; Steve</a> </section>\n</blockquote>\n<p> <script async src=\"https://www.tiktok.com/embed.js\"></script></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>@stevedrawings2 Shadow demonstration #art #paint #oilpainting #shadow ? original sound &#8211; Steve</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 176,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-157",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/157",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=157"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/157/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 159,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/157/revisions/159"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media/176"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=157"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=157"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=157"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 154,
+    "date": "2025-04-22T16:38:08",
+    "date_gmt": "2025-04-22T16:38:08",
+    "guid": {
+      "rendered": "https://stephenbreighner.com/?p=154"
+    },
+    "modified": "2025-04-24T13:46:53",
+    "modified_gmt": "2025-04-24T13:46:53",
+    "slug": "5-minute-face",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/04/22/5-minute-face/",
+    "title": {
+      "rendered": "5 Minute face"
+    },
+    "content": {
+      "rendered": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@stevedrawings2/video/7476904926703062315\" data-video-id=\"7476904926703062315\" style=\"max-width: 605px;min-width: 325px;\" >\n<section> <a target=\"_blank\" title=\"@stevedrawings2\" href=\"https://www.tiktok.com/@stevedrawings2?refer=embed\">@stevedrawings2</a> Face pt 2&#8230; i change eye around at the end.. <a title=\"art\" target=\"_blank\" href=\"https://www.tiktok.com/tag/art?refer=embed\">#art</a> <a title=\"painting\" target=\"_blank\" href=\"https://www.tiktok.com/tag/painting?refer=embed\">#painting</a> <a title=\"eye\" target=\"_blank\" href=\"https://www.tiktok.com/tag/eye?refer=embed\">#eye</a> <a title=\"eyes\" target=\"_blank\" href=\"https://www.tiktok.com/tag/eyes?refer=embed\">#eyes</a> <a title=\"eyeslipsface\" target=\"_blank\" href=\"https://www.tiktok.com/tag/eyeslipsface?refer=embed\">#eyeslipsface</a> <a title=\"oilpainting\" target=\"_blank\" href=\"https://www.tiktok.com/tag/oilpainting?refer=embed\">#oilpainting</a> <a target=\"_blank\" title=\"? Moonlit - V\u00d8J &#38; Narvent\" href=\"https://www.tiktok.com/music/Moonlit-7267968277281294337?refer=embed\">? Moonlit &#8211; V\u00d8J &#38; Narvent</a> </section>\n</blockquote>\n<p> <script async src=\"https://www.tiktok.com/embed.js\"></script></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>@stevedrawings2 Face pt 2&#8230; i change eye around at the end.. #art #painting #eye #eyes #eyeslipsface #oilpainting ? Moonlit &#8211; V\u00d8J &#38; Narvent</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 179,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-154",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/154",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=154"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/154/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 155,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/154/revisions/155"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media/179"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=154"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=154"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=154"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 152,
+    "date": "2025-04-22T16:37:11",
+    "date_gmt": "2025-04-22T16:37:11",
+    "guid": {
+      "rendered": "https://stephenbreighner.com/?p=152"
+    },
+    "modified": "2025-04-22T16:37:11",
+    "modified_gmt": "2025-04-22T16:37:11",
+    "slug": "wizard-boy-part-1",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/04/22/wizard-boy-part-1/",
+    "title": {
+      "rendered": "Wizard Boy part 1"
+    },
+    "content": {
+      "rendered": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@stevedrawings2/video/7414552833581698335\" data-video-id=\"7414552833581698335\" style=\"max-width: 605px;min-width: 325px;\" >\n<section> <a target=\"_blank\" title=\"@stevedrawings2\" href=\"https://www.tiktok.com/@stevedrawings2?refer=embed\">@stevedrawings2</a> Painting a wizard boy <a title=\"art\" target=\"_blank\" href=\"https://www.tiktok.com/tag/art?refer=embed\">#art</a> <a title=\"painting\" target=\"_blank\" href=\"https://www.tiktok.com/tag/painting?refer=embed\">#painting</a> @stevedrawings <a target=\"_blank\" title=\"? original sound - teeharpo\" href=\"https://www.tiktok.com/music/original-sound-7346401715937135402?refer=embed\">? original sound &#8211; teeharpo</a> </section>\n</blockquote>\n<p> <script async src=\"https://www.tiktok.com/embed.js\"></script></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>@stevedrawings2 Painting a wizard boy #art #painting @stevedrawings ? original sound &#8211; teeharpo</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-152",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/152",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=152"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/152/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 153,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/152/revisions/153"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=152"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=152"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=152"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 150,
+    "date": "2025-04-22T16:36:39",
+    "date_gmt": "2025-04-22T16:36:39",
+    "guid": {
+      "rendered": "https://stephenbreighner.com/?p=150"
+    },
+    "modified": "2025-04-22T16:36:39",
+    "modified_gmt": "2025-04-22T16:36:39",
+    "slug": "a-face",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/04/22/a-face/",
+    "title": {
+      "rendered": "A face"
+    },
+    "content": {
+      "rendered": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@stevedrawings2/video/7375650377984691498\" data-video-id=\"7375650377984691498\" style=\"max-width: 605px;min-width: 325px;\" >\n<section> <a target=\"_blank\" title=\"@stevedrawings2\" href=\"https://www.tiktok.com/@stevedrawings2?refer=embed\">@stevedrawings2</a> another face&#8230;<a title=\"art\" target=\"_blank\" href=\"https://www.tiktok.com/tag/art?refer=embed\">#art</a> <a title=\"people\" target=\"_blank\" href=\"https://www.tiktok.com/tag/people?refer=embed\">#people</a> <a title=\"ink\" target=\"_blank\" href=\"https://www.tiktok.com/tag/ink?refer=embed\">#ink</a> <a title=\"oilpainting\" target=\"_blank\" href=\"https://www.tiktok.com/tag/oilpainting?refer=embed\">#oilpainting</a> <a title=\"people\" target=\"_blank\" href=\"https://www.tiktok.com/tag/people?refer=embed\">#people</a> <a target=\"_blank\" title=\"? walking on a dream by empire of the sun - sophie\" href=\"https://www.tiktok.com/music/walking-on-a-dream-by-empire-of-the-sun-6967418269091269382?refer=embed\">? walking on a dream by empire of the sun &#8211; sophie</a> </section>\n</blockquote>\n<p> <script async src=\"https://www.tiktok.com/embed.js\"></script></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>@stevedrawings2 another face&#8230;#art #people #ink #oilpainting #people ? walking on a dream by empire of the sun &#8211; sophie</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-150",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/150",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=150"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/150/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 151,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/150/revisions/151"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=150"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=150"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=150"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 146,
+    "date": "2025-04-22T16:36:10",
+    "date_gmt": "2025-04-22T16:36:10",
+    "guid": {
+      "rendered": "https://stephenbreighner.com/?p=146"
+    },
+    "modified": "2025-04-22T16:36:10",
+    "modified_gmt": "2025-04-22T16:36:10",
+    "slug": "146",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/04/22/146/",
+    "title": {
+      "rendered": ""
+    },
+    "content": {
+      "rendered": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@stevedrawings2/video/7361845684963675438\" data-video-id=\"7361845684963675438\" style=\"max-width: 605px;min-width: 325px;\" >\n<section> <a target=\"_blank\" title=\"@stevedrawings2\" href=\"https://www.tiktok.com/@stevedrawings2?refer=embed\">@stevedrawings2</a> <a title=\"ink\" target=\"_blank\" href=\"https://www.tiktok.com/tag/ink?refer=embed\">#ink</a> <a title=\"art\" target=\"_blank\" href=\"https://www.tiktok.com/tag/art?refer=embed\">#art</a> <a title=\"people\" target=\"_blank\" href=\"https://www.tiktok.com/tag/people?refer=embed\">#people</a> <a title=\"drawing\" target=\"_blank\" href=\"https://www.tiktok.com/tag/drawing?refer=embed\">#drawing</a> <a title=\"paint\" target=\"_blank\" href=\"https://www.tiktok.com/tag/paint?refer=embed\">#paint</a> <a title=\"painting\" target=\"_blank\" href=\"https://www.tiktok.com/tag/painting?refer=embed\">#painting</a> <a target=\"_blank\" title=\"? Tell Ur GF - Lay Bankz\" href=\"https://www.tiktok.com/music/Tell-Ur-GF-7355920457449916433?refer=embed\">? Tell Ur GF &#8211; Lay Bankz</a> </section>\n</blockquote>\n<p> <script async src=\"https://www.tiktok.com/embed.js\"></script></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>@stevedrawings2 #ink #art #people #drawing #paint #painting ? Tell Ur GF &#8211; Lay Bankz</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-146",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/146",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=146"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/146/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 149,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/146/revisions/149"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=146"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=146"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=146"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 147,
+    "date": "2025-04-22T16:35:44",
+    "date_gmt": "2025-04-22T16:35:44",
+    "guid": {
+      "rendered": "https://stephenbreighner.com/?p=147"
+    },
+    "modified": "2025-04-22T16:35:44",
+    "modified_gmt": "2025-04-22T16:35:44",
+    "slug": "147",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/04/22/147/",
+    "title": {
+      "rendered": ""
+    },
+    "content": {
+      "rendered": "<p>Here are some crops of the painting Ive ben working on&#8230;if youve been following along. I should probably add a tag capability to the blog,,I might do that next! Ive since changed this section of it around a little bit. This was from yesterday maybe&#8230;<br />\n<img src = \"/aom/crop_aom1.jpeg\"><br />\n<img src = \"/aom/crop_aom2.jpeg\"><br />\n<img src = \"/aom/crop_aom3.jpeg\">\n\t\t\t\t\t\t\t</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Here are some crops of the painting Ive ben working on&#8230;if youve been following along. I should probably add a tag capability to the blog,,I might do that next! Ive since changed this section of it around a little bit. This was from yesterday maybe&#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-147",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/147",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=147"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/147/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 148,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/147/revisions/148"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=147"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=147"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=147"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 143,
+    "date": "2025-04-22T16:34:42",
+    "date_gmt": "2025-04-22T16:34:42",
+    "guid": {
+      "rendered": "https://stephenbreighner.com/?p=143"
+    },
+    "modified": "2025-04-22T16:34:42",
+    "modified_gmt": "2025-04-22T16:34:42",
+    "slug": "143",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/04/22/143/",
+    "title": {
+      "rendered": ""
+    },
+    "content": {
+      "rendered": "<br />\n<h1>Vid</h1>\n<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@stevedrawings2/video/7357759587920973098\" data-video-id=\"7357759587920973098\" style=\"max-width: 605px;min-width: 325px;\" >\n<section> <a target=\"_blank\" title=\"@stevedrawings2\" href=\"https://www.tiktok.com/@stevedrawings2?refer=embed\">@stevedrawings2</a> <a title=\"ink\" target=\"_blank\" href=\"https://www.tiktok.com/tag/ink?refer=embed\">#ink</a> <a title=\"drawing\" target=\"_blank\" href=\"https://www.tiktok.com/tag/drawing?refer=embed\">#drawing</a> <a title=\"art\" target=\"_blank\" href=\"https://www.tiktok.com/tag/art?refer=embed\">#art</a> <a title=\"people\" target=\"_blank\" href=\"https://www.tiktok.com/tag/people?refer=embed\">#people</a> <a target=\"_blank\" title=\"? original sound - Steve\" href=\"https://www.tiktok.com/music/original-sound-7357759745971063594?refer=embed\">? original sound &#8211; Steve</a> </section>\n</blockquote>\n<p> <script async src=\"https://www.tiktok.com/embed.js\"></script></p>\n<p>This is a painting Im working on&#8230;here is video one</p>\n<p>Follow along on Tik TOk</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Vid @stevedrawings2 #ink #drawing #art #people ? original sound &#8211; Steve This is a painting Im working on&#8230;here is video one Follow along on Tik TOk</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-143",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/143",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=143"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/143/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 145,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/143/revisions/145"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=143"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=143"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=143"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 141,
+    "date": "2025-04-22T16:34:15",
+    "date_gmt": "2025-04-22T16:34:15",
+    "guid": {
+      "rendered": "https://stephenbreighner.com/?p=141"
+    },
+    "modified": "2025-04-22T16:34:15",
+    "modified_gmt": "2025-04-22T16:34:15",
+    "slug": "lessons",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/04/22/lessons/",
+    "title": {
+      "rendered": "Lessons"
+    },
+    "content": {
+      "rendered": "\n<p><h3>Lessons</h3>\n<p>\nIm offering painting lessons to up to three people at a time. It will be on Zoom or live in person depending on where you are. Im in Arlington VA. The first/next session will be on 5/1 and 5/2 noon EDT for a half hour. This is more for beginners where I can offer pointers and show some of my techniques.  Click <a href = \"https://buy.stripe.com/cN28xW17EdQP23ufYY\">here</a> to register! Once you do I will contact you with more info. If you have any questions email me at <a href = \"mailto:steve.breighner@gmail.com\">steve.breighner@gmail.com</a>\n\t\t\t\t\t\t\t</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Lessons Im offering painting lessons to up to three people at a time. It will be on Zoom or live in person depending on where you are. Im in Arlington VA. The first/next session will be on 5/1 and 5/2 noon EDT for a half hour. This is more for beginners where I can offer [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-141",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/141",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=141"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/141/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 142,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/141/revisions/142"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=141"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=141"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=141"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 137,
+    "date": "2025-04-22T16:33:11",
+    "date_gmt": "2025-04-22T16:33:11",
+    "guid": {
+      "rendered": "https://stephenbreighner.com/?p=137"
+    },
+    "modified": "2025-04-22T16:33:27",
+    "modified_gmt": "2025-04-22T16:33:27",
+    "slug": "paints-i-use",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/04/22/paints-i-use/",
+    "title": {
+      "rendered": "Paints I use (2023-04-29)"
+    },
+    "content": {
+      "rendered": "<p> Paints </p>\n<p>\t\t\t\t\t\t <img src = \"/phthalocyablue.png\"></p>\n<p>I use a lot of different brands and colors..Ill add some more photos later but the main ones used would be these below.<br />\n\t\t\t\t\t\t \tHere are the main colors I typically use and the brands Im currently using:</p>\n<ol>\n<li>Ivory  Black (Utrecht)</li>\n<li>Cadmium Red (Utrecht)</li>\n<li>Cadmium Yellow (Utrecht)</li>\n<li>Burnt Umber (Michael Harding)</li>\n<li>Phthalocyanine Blue (Michael Harding)</li>\n<li>Greeen (Utrecht)</li>\n<li>Titianium WHite (Utrecht)</li>\n<li>Creminitz White (Michael Harding)</li>\n</ol>\n<p>\t\t\t\t\t\t\t\t<img src = \"/paints.jpeg\">\n\t\t\t\t\t\t\t</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Paints I use a lot of different brands and colors..Ill add some more photos later but the main ones used would be these below. Here are the main colors I typically use and the brands Im currently using: Ivory Black (Utrecht) Cadmium Red (Utrecht) Cadmium Yellow (Utrecht) Burnt Umber (Michael Harding) Phthalocyanine Blue (Michael Harding) [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-137",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/137",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=137"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/137/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 140,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/137/revisions/140"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=137"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=137"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=137"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 135,
+    "date": "2025-04-22T16:32:45",
+    "date_gmt": "2025-04-22T16:32:45",
+    "guid": {
+      "rendered": "https://stephenbreighner.com/?p=135"
+    },
+    "modified": "2025-04-22T16:32:45",
+    "modified_gmt": "2025-04-22T16:32:45",
+    "slug": "2023-04-19",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/04/22/2023-04-19/",
+    "title": {
+      "rendered": "2023-04-19"
+    },
+    "content": {
+      "rendered": "<p>Im adding an article pretty soon about the paints i use also so make sure to sign up so you can be notified about that as well&#8230;</p>\n<p>also Im adding the newsletter sign up as soon as I can.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Im adding an article pretty soon about the paints i use also so make sure to sign up so you can be notified about that as well&#8230; also Im adding the newsletter sign up as soon as I can.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-135",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/135",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=135"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/135/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 136,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/135/revisions/136"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=135"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=135"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=135"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 133,
+    "date": "2025-04-22T16:31:46",
+    "date_gmt": "2025-04-22T16:31:46",
+    "guid": {
+      "rendered": "https://stephenbreighner.com/?p=133"
+    },
+    "modified": "2025-04-22T16:31:46",
+    "modified_gmt": "2025-04-22T16:31:46",
+    "slug": "2023-04-17-update",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/04/22/2023-04-17-update/",
+    "title": {
+      "rendered": "2023-04-17 Update"
+    },
+    "content": {
+      "rendered": "<p>Here is a update&#8230;still adding more stuff working on more always wokring hope to add some other stuff later maybe paintings or other stuff&#8230;weather nice this time of year ! </p>\n<p> IM hoping to add another section maybe on paint brush techniques or even video</p>\n<p> probably will<br />\n\t\t\t\t\t\t\t<!--p>Are you an artist looking to upgrade your oil painting game? Whether you're a seasoned pro or just starting out, choosing the right oil paints can make all the difference. With so many options on the market, it can be tough to know where to start. That's why we've put together a list of the top ten oil paints that every artist should try. From classic brands to up-and-coming favorites, we've got you covered. So grab your palette knife and let's dive in!</p>\n\n\n\t\t\t\t\t\t\t--><\n</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Here is a update&#8230;still adding more stuff working on more always wokring hope to add some other stuff later maybe paintings or other stuff&#8230;weather nice this time of year ! IM hoping to add another section maybe on paint brush techniques or even video probably will <\n</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-133",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/133",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=133"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/133/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 134,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/133/revisions/134"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=133"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=133"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=133"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 120,
+    "date": "2025-04-22T14:13:45",
+    "date_gmt": "2025-04-22T14:13:45",
+    "guid": {
+      "rendered": "https://stephenbreighner.com/?p=120"
+    },
+    "modified": "2025-04-22T14:54:43",
+    "modified_gmt": "2025-04-22T14:54:43",
+    "slug": "120",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.stephenbreighner.com/2025/04/22/120/",
+    "title": {
+      "rendered": "latest"
+    },
+    "content": {
+      "rendered": "<p><date>March 20 2023</date></p>\n<p>Welcome to my artist&#8217;s blog! This is where I&#8217;ll be sharing my thoughts, ideas, and inspiration with you. As an artist, I&#8217;m always exploring new techniques, experimenting with different mediums, and pushing myself to create something new and exciting. On this blog, I&#8217;ll be sharing my latest works, discussing my artistic process, and giving you a behind-the-scenes look at my creative life. Whether you&#8217;re an artist yourself or just love art, I hope you&#8217;ll find something here to inspire you. So grab a cup of coffee and let&#8217;s dive into the world of art together!</p>\n<p> also Im still working on the illustrations page..that will be more normal style artwork</p>\n<p>\t\t\t\t\t\t\t<!--p>Are you an artist looking to upgrade your oil painting game? Whether you're a seasoned pro or just starting out, choosing the right oil paints can make all the difference. With so many options on the market, it can be tough to know where to start. That's why we've put together a list of the top ten oil paints that every artist should try. From classic brands to up-and-coming favorites, we've got you covered. So grab your palette knife and let's dive in!</p>\n\n\n\t\t\t\t\t\t\t--></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>March 20 2023 Welcome to my artist&#8217;s blog! This is where I&#8217;ll be sharing my thoughts, ideas, and inspiration with you. As an artist, I&#8217;m always exploring new techniques, experimenting with different mediums, and pushing myself to create something new and exciting. On this blog, I&#8217;ll be sharing my latest works, discussing my artistic process, [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-120",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/120",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/comments?post=120"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/120/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 131,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/posts/120/revisions/131"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/media?parent=120"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/categories?post=120"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.stephenbreighner.com/wp-json/wp/v2/tags?post=120"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

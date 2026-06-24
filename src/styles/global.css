@@ -1,0 +1,80 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 14px 18px;
+  z-index: 1000;
+
+  background: rgba(0,0,0,0.3);
+  backdrop-filter: blur(10px);
+}
+
+.brand {
+  font-size: 11px;
+  letter-spacing: .25em;
+  opacity: .8;
+}
+
+.hamburger {
+  font-size: 22px;
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  opacity: .85;
+}
+
+/* FULLSCREEN MENU */
+.menu {
+z-index:999;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.92);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 300ms ease;
+}
+
+.menu.open {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.menu nav {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  text-align: center;
+}
+
+.menu a {
+  color: #ddd;
+  text-decoration: none;
+  font-size: 14px;
+  letter-spacing: .12em;
+  opacity: .8;
+}
+
+.menu a:hover {
+  opacity: 0;
+}
+.tiktok-embed, .embed-video-container {
+  background: transparent !important;
+  border: none !important;
+  margin: 20px 0;
+}
+
+iframe, #embed-video-container {
+  background: transparent !important;
+}

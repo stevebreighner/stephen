@@ -1,0 +1,7 @@
+---
+title: "Deepseek suggests I post three times a week"
+date: 2025-06-02
+slug: "deepseek-suggests-i-post-three-times-a-week"
+---
+
+<p>Among the things discussed with deepseek, whose guidance I sought regarding tik tok was how often one should post there in order to generate a larger audience. To this deepseek advised at least three times a week and gave specific times of day when one should in order for ones videos to be seen by the most people. I actually forget what times they suggested, something along the lines of Monday morning was one; either before work or during. But for me I was already too lost in the thought of how would I begin to be able to do three videos in a week and isn&#8217;t that an insane level of commitment, to pay any further attention to what he was saying. But I should mention that he/she/whatever it is advised to film several scenes all at once, which I think is a good idea, so that one would more efficiently prosecute such an undertaking, which again I think is good. But good or not, is it even in that way still doable? As in, yes sure I could for a few weeks keep it up but then what about for months and months on end? And would I want to do it in the first place?<br /> This is what I&#8217;m thinking over at present. I do think however that one video per week doesn&#8217;t seem like enough even to me. Perhaps with my new <a href="https://www.stephenbreighner.com/2025/06/02/new-style-videos-coming-soon-on-tok/">setup </a> and the three or more at a time idea, it won&#8217;t be such a chore!</p> 

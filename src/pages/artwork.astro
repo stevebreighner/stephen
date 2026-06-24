@@ -1,7 +1,5 @@
 ---
-const { title = "Stephen Breighner" } = Astro.props;
-
-import "../styles/global.css";
+const { title = "SB" } = Astro.props;
 ---
 
 <html lang="en">
@@ -13,36 +11,30 @@ import "../styles/global.css";
 
 <body>
 
-<!-- HEADER -->
 <header class="header">
   <div class="brand">SB</div>
 
   <button class="hamburger" id="menuBtn">☰</button>
 </header>
 
-<!-- FULLSCREEN MENU -->
+<!-- FULLSCREEN MENU OVERLAY -->
 <div class="menu" id="menu">
   <nav>
-   
-    <a href="/artwork">Artwork</a>
+    <a href="/">Home</a>
     <a href="/bio">Bio</a>
+    <a href="/artwork">Artwork</a>
     <a href="/writings">Writings</a>
     <a href="/classes">Classes</a>
     <a href="/contact">Contact</a>
   </nav>
 </div>
 
-<!-- PAGE CONTENT -->
 <main>
   <slot />
 </main>
 
-<!-- FOOTER -->
-<footer>
-  © 2026 SB
-</footer>
+<footer>© 2026 SB</footer>
 
-<!-- MENU SCRIPT -->
 <script>
   const btn = document.getElementById("menuBtn");
   const menu = document.getElementById("menu");
@@ -52,32 +44,23 @@ import "../styles/global.css";
   });
 
   menu?.addEventListener("click", (e) => {
-    if (e.target === menu) {
-      menu.classList.remove("open");
-    }
+    if (e.target === menu) menu.classList.remove("open");
   });
 </script>
 
 </body>
 </html>
 
-<!-- STYLES -->
 <style>
-:root {
-  --bg: #050505;
-  --text: #eaeaea;
-  --muted: #9a9a9a;
-}
-
 /* BASE */
 body {
   margin: 0;
-  background: var(--bg);
-  color: var(--text);
+  background: #050505;
+  color: #eaeaea;
   font-family: system-ui, sans-serif;
 }
 
-/* HEADER */
+/* HEADER (minimal) */
 .header {
   position: fixed;
   top: 0;
@@ -91,7 +74,7 @@ body {
   padding: 14px 18px;
   z-index: 1000;
 
-  background: rgba(0,0,0,0.35);
+  background: rgba(0,0,0,0.3);
   backdrop-filter: blur(10px);
 }
 
@@ -157,5 +140,22 @@ footer {
   padding: 40px;
   font-size: 11px;
   color: #666;
+}
+
+/* IMAGE FADE-IN GLOBAL RULE */
+img {
+  opacity: 0;
+  animation: fadeIn 900ms ease forwards;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(1.03);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
 </style>

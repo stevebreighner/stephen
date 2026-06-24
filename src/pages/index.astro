@@ -1,11 +1,68 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
-
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+import Layout from "../layouts/Layout.astro";
 ---
 
-<Layout>
-	<Welcome />
+<Layout title="Stephen Breighner">
+  <section class="hero">
+    <img src="/trinity.webp" alt="Featured artwork" />
+
+    <div class="overlay">
+      <p class="tag">Featured Work</p>
+      <p class="desc">Illustration • Painting • Books</p>
+
+      <div class="actions">
+        <a href="/artwork">View</a>
+        <a href="/bio">About</a>
+      </div>
+    </div>
+  </section>
 </Layout>
+
+<style>
+:root {
+  --muted: #9a9a9a;
+}
+
+.hero {
+  position: relative;
+  height: 100vh;
+}
+
+.hero img {
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+}
+
+.overlay {
+  position: absolute;
+  left: 5%;
+  bottom: 6%;
+}
+
+.tag {
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+  margin: 0;
+}
+
+.desc {
+  font-size: 13px;
+  color: #bbb;
+  margin: 6px 0 10px;
+}
+
+.actions {
+  display: flex;
+  gap: 10px;
+}
+
+.actions a {
+  font-size: 12px;
+  padding: 8px 10px;
+  border: 1px solid #444;
+  color: white;
+  text-decoration: none;
+}
+</style>

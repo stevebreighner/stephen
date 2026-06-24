@@ -1,0 +1,7 @@
+---
+title: "New Year"
+date: 2025-04-22
+slug: "new-year"
+---
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@stevedrawings2/video/7456115417833164075" data-video-id="7456115417833164075" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@stevedrawings2" href="https://www.tiktok.com/@stevedrawings2?refer=embed">@stevedrawings2</a> Working on a few faces <a title="art" target="_blank" href="https://www.tiktok.com/tag/art?refer=embed">#art</a> <a title="paintmixing" target="_blank" href="https://www.tiktok.com/tag/paintmixing?refer=embed">#paintmixing</a> <a title="sb" target="_blank" href="https://www.tiktok.com/tag/sb?refer=embed">#sb</a> <a title="paintingart" target="_blank" href="https://www.tiktok.com/tag/paintingart?refer=embed">#paintingart</a> <a title="artober" target="_blank" href="https://www.tiktok.com/tag/artober?refer=embed">#artober</a> <a title="artober" target="_blank" href="https://www.tiktok.com/tag/artober?refer=embed">#artober</a> <a title="painter" target="_blank" href="https://www.tiktok.com/tag/painter?refer=embed">#painter</a> <a title="painting" target="_blank" href="https://www.tiktok.com/tag/painting?refer=embed">#painting</a> <a target="_blank" title="? original sound - JORDAN LOKWA" href="https://www.tiktok.com/music/original-sound-7286773972858686254?refer=embed">? original sound &#8211; JORDAN LOKWA</a> </section> </blockquote> <p> </p> 

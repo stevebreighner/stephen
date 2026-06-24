@@ -12,6 +12,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^7.0.2"
+    "astro": "^7.0.2",
+    "fs-extra": "^11.3.5",
+    "mysql2": "^3.22.5"
   }
 }

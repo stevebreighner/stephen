@@ -1,6 +1,8 @@
 # build output
 dist/
 
+blog.py
+
 # generated types
 .astro/
 

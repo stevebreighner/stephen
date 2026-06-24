@@ -1,0 +1,64 @@
+---
+import Layout from "../../layouts/Layout.astro";
+
+export async function getStaticPaths() {
+  const res = await fetch(
+    "https://www.stephenbreighner.com/wp-json/wp/v2/posts?per_page=100&_fields=slug"
+  );
+  const posts = await res.json();
+
+  return posts.map((p) => ({
+    params: { slug: p.slug },
+  }));
+}
+
+const { slug } = Astro.params;
+
+const res = await fetch(
+  `https://www.stephenbreighner.com/wp-json/wp/v2/posts?slug=${slug}`
+);
+
+const post = (await res.json())[0];
+---
+
+<Layout title={post.title.rendered}>
+  <div class="wrap">
+    <a class="back" href="/blog">← Back</a>
+
+    <h1 set:html={post.title.rendered} />
+
+    <div class="content" set:html={post.content.rendered} />
+  </div>
+
+  <!-- IMPORTANT: keep TikTok script -->
+  <script async src="https://www.tiktok.com/embed.js"></script>
+</Layout>
+
+<style>
+.wrap {
+  max-width: 800px;
+  margin: 80px auto;
+  padding: 20px;
+}
+
+.back {
+  display: inline-block;
+  margin-bottom: 20px;
+  font-size: 13px;
+  color: #aaa;
+  text-decoration: none;
+}
+
+.content {
+  font-size: 14px;
+  color: #ccc;
+  line-height: 1.6;
+}
+
+/* TikTok embed cleanup */
+.tiktok-embed {
+  background: transparent !important;
+  border: none !important;
+  margin: 20px 0;
+}
+</style>
