@@ -1,32 +1,44 @@
 ---
-import Layout from "../layouts/Layout.astro";
+import PageLayout from "../layouts/PageLayout.astro";
 ---
 
-<Layout title="PAGE_TITLE">
-  <div class="container">
-    <h1>PAGE_TITLE</h1>
+<PageLayout title="Contact">
+  <h1>Contact</h1>
 
-    <p>
-      Content coming soon.
-    </p>
-  </div>
-</Layout>
+<form
+  action="https://formspree.io/f/xanoeyok"
+  method="POST"
+  class="contact-form"
+>
+  <input
+    type="text"
+    name="name"
+    placeholder="Name"
+    required
+  />
 
-<style>
-.container {
-  max-width: 900px;
-  margin: 90px auto;
-  padding: 20px;
-}
+  <input
+    type="email"
+    name="email"
+    placeholder="Email"
+    required
+  />
 
-h1 {
-  font-size: 24px;
-  font-weight: 500;
-  margin-bottom: 24px;
-}
+  <input
+    type="text"
+    name="subject"
+    placeholder="Subject"
+  />
 
-p {
-  color: #999;
-  line-height: 1.6;
-}
-</style>
+  <textarea
+    name="message"
+    rows="8"
+    placeholder="Message"
+    required
+  ></textarea>
+
+  <button type="submit">
+    Send Message
+  </button>
+</form>
+</PageLayout>

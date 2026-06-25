@@ -1,32 +1,52 @@
 ---
-import Layout from "../layouts/Layout.astro";
+import PageLayout from "../layouts/PageLayout.astro";
 ---
 
-<Layout title="PAGE_TITLE">
-  <div class="container">
-    <h1>PAGE_TITLE</h1>
+
+<PageLayout title="Writings">
+  <h1>Writings</h1>
+
+  <p>
+    This section collects books, essays, research papers, and other
+    long-form writing.
+  </p>
+
+  <h2>Books</h2>
+
+  <div class="writing-item">
+    <h3>
+      <a href="https://www.amazon.com/Destruction-Pretty-Things-Handbook-Painting/dp/B0G63CTGV2/ref=tmm_pap_swatch_0">
+        Destruction of Pretty Things: A Handbook on Painting
+      </a>
+    </h3>
 
     <p>
-      Content coming soon.
+      A practical handbook exploring painting technique, artistic
+      development, materials, process, and sustained creative work.
     </p>
   </div>
-</Layout>
+ 
 
-<style>
-.container {
-  max-width: 900px;
-  margin: 90px auto;
-  padding: 20px;
-}
+  <h2>Research</h2>
 
-h1 {
-  font-size: 24px;
-  font-weight: 500;
-  margin-bottom: 24px;
-}
+  <div class="writing-item">
+    <h4>Bipolar Graviton Condensate Research Archive</h4>
 
-p {
-  color: #999;
-  line-height: 1.6;
-}
-</style>
+    <p>
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6595118">
+        Massive Bipolar Graviton Condensate
+      </a>
+    </p>
+
+    <p>
+      <a
+        href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6462981"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Preliminary Note: Non-Singular Alternative to Sagittarius A
+      </a>
+    </p>
+  </div>
+</PageLayout>
+ 
