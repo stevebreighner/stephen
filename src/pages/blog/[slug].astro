@@ -1,31 +1,20 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import { readFileSync } from "node:fs";
-import { dirname, join } from "node:path";
-import { fileURLToPath } from "node:url";
 
 export function getStaticPaths() {
-  const __dirname = dirname(fileURLToPath(import.meta.url));
-  const allPosts = Object.entries(
+  const posts = Object.entries(
     import.meta.glob("../../content/blog/*.md", { eager: true })
   );
 
-  return allPosts.map(([path, post]) => {
-    const source = readFileSync(join(__dirname, path), "utf-8");
-
-    return {
-      params: {
-        slug: path.split("/").pop().replace(".md", ""),
-      },
-      props: {
-        post,
-        hasTiktok: source.includes("tiktok-embed"),
-      },
-    };
-  });
+  return posts.map(([path, post]) => ({
+    params: {
+      slug: path.split("/").pop().replace(".md", ""),
+    },
+    props: { post },
+  }));
 }
 
-const { post, hasTiktok } = Astro.props;
+const { post } = Astro.props;
 ---
 
 <Layout title={post.frontmatter.title}>
@@ -39,7 +28,5 @@ const { post, hasTiktok } = Astro.props;
     </div>
   </div>
 
-  {hasTiktok && (
-    <script is:inline async src="https://www.tiktok.com/embed.js"></script>
-  )}
+  <script is:inline async src="https://www.tiktok.com/embed.js"></script>
 </Layout>
