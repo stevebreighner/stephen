@@ -8,7 +8,7 @@
   --muted: #2b2b2b;
   --soft: #eaeaea;
   --border: #e6e6e6;
-
+  --gray: red;
   --accent: #000;
 }
 
@@ -199,19 +199,34 @@ a:focus-visible {
 
 footer {margin:auto;text-align: center;}
 
+footer a {
+  text-decoration: underline;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+footer a:hover,
+footer a:focus {
+  text-decoration: underline;
+  border-bottom: none;
+}
 /* =========================
    HERO
 ========================= */
 
 .hero {
   position: relative;
-  height: 100vh;
+  height: 85vh;
+  max-height: 720px;
+  overflow: hidden;
 }
 
 .hero img {
   width: 100%;
-  height: 100vh;
+  height: 100%;
   object-fit: cover;
+object-position: 40% 25%;
+  transform: scale(1.02);
 }
 
 .overlay {
@@ -223,28 +238,38 @@ footer {margin:auto;text-align: center;}
 .tag {
   font-size: 12px;
   letter-spacing: 0.2em;
-  color: var(--muted);
+  color: white;
   margin: 0;
 }
 
 .desc {
   font-size: 13px;
-  color: var(--muted);
+  color: var(--gray);
   margin: 6px 0 10px;
 }
 
 .actions {
   display: flex;
-  gap: 10px;
+  gap: 10px; 
 }
 
 .actions a {
   font-size: 12px;
   padding: 8px 10px;
   border: 1px solid var(--border);
-  text-decoration: none;
+  text-decoration: none;color: var(--gray);
 }
-
+.hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to top,
+    rgba(0,0,0,0.55),
+    rgba(0,0,0,0.15),
+    transparent
+  );
+}
 /* =========================
    BLOG
 ========================= */

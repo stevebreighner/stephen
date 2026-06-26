@@ -1,18 +1,17 @@
 ---
-
 import Layout from "../layouts/Layout.astro";
 
 const posts = Object.entries(
-import.meta.glob("../content/blog/*.md", { eager: true })
+  import.meta.glob("../content/blog/*.md", { eager: true })
 ).map(([path, mod]) => ({
-path,
-...mod,
+  path,
+  ...mod,
 }));
 
 posts.sort(
-(a, b) =>
-new Date(b.frontmatter.date).getTime() -
-new Date(a.frontmatter.date).getTime()
+  (a, b) =>
+    new Date(b.frontmatter.date).getTime() -
+    new Date(a.frontmatter.date).getTime()
 );
 ---
 
@@ -20,60 +19,45 @@ new Date(a.frontmatter.date).getTime()
   <div class="container">
     <div class="top">
       <h1>Blog</h1>
- 
-  <div class="controls">
-    <input
-      id="search"
-      type="text"
-      placeholder="Search posts..."
-    />
 
-    <button id="listView" class="view-btn">
-      ☰
-    </button>
+      <div class="controls">
+        <input id="search" type="text" placeholder="Search posts..." />
 
-    <button id="largeView" class="view-btn">
-      ⊞
-    </button>
-  </div>
-</div>
+        <button id="listView" class="view-btn">☰</button>
+        <button id="largeView" class="view-btn">⊞</button>
+      </div>
+    </div>
 
-<p class="count" id="count">{posts.length} posts</p>
+    <p class="count" id="count">{posts.length} posts</p>
 
-<div id="posts">
-  {
-    posts.map((post) => {
-      const slug = post.path
-        .split("/")
-        .pop()
-        .replace(".md", "");
+    <div id="posts">
+      {
+        posts.map((post) => {
+          const slug = post.path.split("/").pop().replace(".md", "");
 
-      return (
-        <a
-          class="card"
-          href={`/blog/${slug}`}
-          data-title={post.frontmatter.title.toLowerCase()}
-        >
-          <div class="meta">
-            {post.frontmatter.date}
-          </div>
+          return (
+            <a
+              class="card"
+              href={`/blog/${slug}`}
+              data-title={post.frontmatter.title.toLowerCase()}
+            >
+              <div class="meta">
+                {post.frontmatter.date}
+              </div>
 
-          <h2>
-            {post.frontmatter.video && "🎬 "}
-            {post.frontmatter.title}
-          </h2>
+              <h2>
+                {post.frontmatter.video && "🎬 "}
+                {post.frontmatter.title}
+              </h2>
 
-          <p>
-            {post.frontmatter.description ||
-              "Click to read article..."}
-          </p>
-        </a>
-      );
-    })
-  }
-</div>
- 
-
+              <p>
+                {post.frontmatter.description || "Click to read article..."}
+              </p>
+            </a>
+          );
+        })
+      }
+    </div>
   </div>
 
   <script>
@@ -83,48 +67,28 @@ new Date(a.frontmatter.date).getTime()
 
     function update() {
       const q = input.value.toLowerCase();
-
       let visible = 0;
 
       cards.forEach((card) => {
         const title = card.dataset.title || "";
-
         const show = title.includes(q);
 
         card.style.display = show ? "block" : "none";
-
         if (show) visible++;
       });
 
-      count.textContent =
-        `${visible} of ${cards.length} posts`;
+      count.textContent = `${visible} of ${cards.length} posts`;
     }
 
     input?.addEventListener("input", update);
-
     update();
 
-    const listBtn =
-      document.getElementById("listView");
-
-    const largeBtn =
-      document.getElementById("largeView");
-
-    listBtn?.addEventListener("click", () => {
-      document.body.classList.remove(
-        "large-view"
-      );
+    document.getElementById("listView")?.addEventListener("click", () => {
+      document.body.classList.remove("large-view");
     });
 
-    largeBtn?.addEventListener("click", () => {
-      document.body.classList.add(
-        "large-view"
-      );
+    document.getElementById("largeView")?.addEventListener("click", () => {
+      document.body.classList.add("large-view");
     });
   </script>
-
 </Layout>
-
-<style>
-
-</style>
