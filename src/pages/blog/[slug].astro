@@ -1,64 +1,45 @@
 ---
 import Layout from "../../layouts/Layout.astro";
+import { readFileSync } from "node:fs";
+import { dirname, join } from "node:path";
+import { fileURLToPath } from "node:url";
 
-export async function getStaticPaths() {
-  const res = await fetch(
-    "https://www.stephenbreighner.com/wp-json/wp/v2/posts?per_page=100&_fields=slug"
+export function getStaticPaths() {
+  const __dirname = dirname(fileURLToPath(import.meta.url));
+  const allPosts = Object.entries(
+    import.meta.glob("../../content/blog/*.md", { eager: true })
   );
-  const posts = await res.json();
 
-  return posts.map((p) => ({
-    params: { slug: p.slug },
-  }));
+  return allPosts.map(([path, post]) => {
+    const source = readFileSync(join(__dirname, path), "utf-8");
+
+    return {
+      params: {
+        slug: path.split("/").pop().replace(".md", ""),
+      },
+      props: {
+        post,
+        hasTiktok: source.includes("tiktok-embed"),
+      },
+    };
+  });
 }
 
-const { slug } = Astro.params;
-
-const res = await fetch(
-  `https://www.stephenbreighner.com/wp-json/wp/v2/posts?slug=${slug}`
-);
-
-const post = (await res.json())[0];
+const { post, hasTiktok } = Astro.props;
 ---
 
-<Layout title={post.title.rendered}>
+<Layout title={post.frontmatter.title}>
   <div class="wrap">
     <a class="back" href="/blog">← Back</a>
 
-    <h1 set:html={post.title.rendered} />
+    <h1>{post.frontmatter.title}</h1>
 
-    <div class="content" set:html={post.content.rendered} />
+    <div class="content">
+      <post.Content />
+    </div>
   </div>
 
-  <!-- IMPORTANT: keep TikTok script -->
-  <script async src="https://www.tiktok.com/embed.js"></script>
+  {hasTiktok && (
+    <script is:inline async src="https://www.tiktok.com/embed.js"></script>
+  )}
 </Layout>
-
-<style>
-.wrap {
-  max-width: 800px;
-  margin: 80px auto;
-  padding: 20px;
-}
-
-.back {
-  display: inline-block;
-  margin-bottom: 20px;
-  font-size: 13px;
-  color: #aaa;
-  text-decoration: none;
-}
-
-.content {
-  font-size: 14px;
-  color: #ccc;
-  line-height: 1.6;
-}
-
-/* TikTok embed cleanup */
-.tiktok-embed {
-  background: transparent !important;
-  border: none !important;
-  margin: 20px 0;
-}
-</style>

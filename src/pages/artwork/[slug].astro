@@ -1,0 +1,33 @@
+---
+import PageLayout from "../../layouts/PageLayout.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const artworks = await getCollection("artwork");
+
+  return artworks.map((art) => ({
+    params: { slug: art.slug },
+    props: { art },
+  }));
+}
+
+const { art } = Astro.props;
+---
+
+<PageLayout title={art.data.title}>
+  <h1>{art.data.title}</h1>
+
+  <p>{art.data.medium}</p>
+
+  {art.data.images?.map((img) => (
+    <img src={img} style="max-width:100%; margin:20px 0;" />
+  ))}
+
+  <p>{art.body}</p>
+
+  {art.data.price && (
+    <div>
+      <strong>${art.data.price}</strong>
+    </div>
+  )}
+</PageLayout>
