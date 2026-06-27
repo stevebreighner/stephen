@@ -7,7 +7,7 @@
   --text: #0b0b0b;
   --muted: #2b2b2b;
   --soft: #eaeaea;
-  --border: #e6e6e6;
+  --border: #d7d3d3;
   --gray: red;
   --accent: #000;
 }
@@ -19,6 +19,20 @@
 * {
   box-sizing: border-box;
   transition: background 0.2s ease, color 0.2s ease, transform 0.2s ease;
+}
+html,
+body {
+  height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
 }
 
 body {
