@@ -1,8 +1,17 @@
+
+
 # build output
+/vendor
+stripe-old/
+stripe/
 dist/
-
+wp-config.php
+stripe/wp-config.php
+stripe/config.php
+stripe/bootstrap.php
+.env
 blog.py
-
+stripe/webhook.php
 # generated types
 .astro/
 

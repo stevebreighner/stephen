@@ -24,6 +24,10 @@ return artwork.map(([path, piece]) => ({
 }
 
 const { piece } = Astro.props;
+const slug = Astro.params.slug;
+const price = piece.frontmatter.price;
+const status = piece.frontmatter.status ?? "Available";
+const canBuy = price && status.toLowerCase() !== "sold";
 ---
 
 <PageLayout title={piece.frontmatter.title}>
@@ -56,8 +60,42 @@ const { piece } = Astro.props;
 
 </p>
 
+{price && (
+  <p>
+    <strong>Price:</strong>
+    ${price}
+  </p>
+)}
+
+{canBuy && (
+  <form class="buy-form" method="post" action="https://www.stephenbreighner.com/stripe/create-checkout-session.php">
+    <input type="hidden" name="artwork_slug" value={slug} />
+    <button type="submit">Buy Now</button>
+  </form>
+)}
+
 <div class="content">
   <piece.Content />
 </div>
 
 </PageLayout>
+
+<style>
+.buy-form {
+  margin: 1.25rem 0;
+}
+
+.buy-form button {
+  appearance: none;
+  border: 1px solid var(--text);
+  background: var(--text);
+  color: var(--bg);
+  cursor: pointer;
+  font: inherit;
+  padding: 0.7rem 1rem;
+}
+
+.buy-form button:hover {
+  transform: translateY(-1px);
+}
+</style>

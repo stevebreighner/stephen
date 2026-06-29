@@ -1,10 +1,187 @@
 ---
 import PageLayout from "../layouts/PageLayout.astro";
+
+const artwork = Object.entries(
+  import.meta.glob("../content/artwork/*.md", { eager: true })
+).map(([path, mod]) => {
+  const slug = path.split("/").pop().replace(".md", "");
+  const orientation = mod.frontmatter.orientation ?? "square";
+
+  return {
+    slug,
+    title: mod.frontmatter.title,
+    image: mod.frontmatter.image,
+    thumb:
+      mod.frontmatter.thumbs?.[orientation] ??
+      mod.frontmatter.thumb ??
+      mod.frontmatter.image,
+    medium: mod.frontmatter.medium,
+    date: mod.frontmatter.date,
+    orientation,
+  };
+});
+
+artwork.sort(
+  (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+);
+
+function buildRows(items) {
+  const rows = [];
+  let row = [];
+  let units = 0;
+
+  const size = (type) => {
+    if (type === "landscape") {
+      return 3;
+    }
+    return 2;
+  };
+
+  const flush = () => {
+    if (row.length) {
+      rows.push(row);
+      row = [];
+      units = 0;
+    }
+  };
+
+  for (const item of items) {
+    const u = size(item.orientation);
+
+    if (units + u > 6) {
+      flush();
+    }
+
+    row.push(item);
+    units += u;
+
+    if (units === 6) {
+      flush();
+    }
+  }
+
+  flush();
+  return rows;
+}
+
+const rows = buildRows(artwork);
 ---
 
 <PageLayout title="Artwork">
-  <h1>Artwork</h1>
 
-  <p>
-Coming soon! New website redesign</p>
+<h1>Artwork</h1>
+
+<div class="gallery">
+  {rows.map((row) => (
+    <div class="row">
+      {row.map((piece) => (
+        <a class={`item ${piece.orientation}`} href={`/artwork/${piece.slug}/`}>
+          <img
+            src={piece.thumb}
+            alt={piece.title}
+            loading="lazy"
+          />
+          <span>
+            <strong>{piece.title}</strong>
+            {piece.medium && <small>{piece.medium}</small>}
+          </span>
+        </a>
+      ))}
+    </div>
+  ))}
+</div>
+
 </PageLayout>
+
+<style>
+.gallery {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.item {
+  flex: 1;
+  display: block;
+  min-width: 0;
+  overflow: hidden;
+  border-bottom: 0;
+  color: inherit;
+}
+
+.item.square img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+.item.portrait img {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+}
+
+.item.landscape {
+  flex: 1.5;
+}
+
+.item.landscape img {
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+}
+
+.item img {
+  display: block;
+  transition: transform 0.2s ease;
+}
+
+.item span {
+  display: grid;
+  gap: 2px;
+  padding-top: 7px;
+}
+
+.item strong,
+.item small {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.item strong {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.item small {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.item:hover img {
+  transform: scale(1.02);
+}
+
+@media (max-width: 700px) {
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 12px;
+  }
+
+  .row {
+    display: contents;
+  }
+
+  .item,
+  .item.landscape {
+    flex: none;
+  }
+}
+</style>
