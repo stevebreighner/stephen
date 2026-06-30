@@ -97,5 +97,31 @@ const canBuy = price && status.toLowerCase() !== "sold";
 
 .buy-form button:hover {
   transform: translateY(-1px);
+}.hero-image {
+  width: 100%;
+  height: auto;
+  max-height: 75vh;
+  object-fit: contain;
+  display: block;
+  margin: 1rem auto;
+}
+
+/* mobile tuning */
+@media (max-width: 768px) {
+  .hero-image {
+    max-height: 65vh;
+  }
+}
+
+/* optional: slightly better visual framing */
+.content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* optional: improve spacing around page */
+.page {
+  padding: 1rem 1.25rem;
 }
 </style>
