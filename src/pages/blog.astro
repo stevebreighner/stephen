@@ -13,6 +13,8 @@ posts.sort(
     new Date(b.frontmatter.date).getTime() -
     new Date(a.frontmatter.date).getTime()
 );
+
+
 ---
 
 <Layout title="Blog">
@@ -28,8 +30,6 @@ posts.sort(
       </div>
     </div>
 
-    <p class="count" id="count">{posts.length} posts</p>
-
     <div id="posts">
       {
         posts.map((post) => {
@@ -38,7 +38,7 @@ posts.sort(
           return (
             <a
               class="card"
-             href={`/blog/${slug}/`}
+              href={`/blog/${slug}/`}
               data-title={post.frontmatter.title.toLowerCase()}
             >
               <div class="meta">
@@ -51,44 +51,12 @@ posts.sort(
               </h2>
 
               <p>
-                {post.frontmatter.description || "Click to read article..."}
-              </p>
+  {post.frontmatter.description || "Click to read article..."}
+</p>
             </a>
           );
         })
       }
     </div>
   </div>
-
-  <script>
-    const input = document.getElementById("search");
-    const count = document.getElementById("count");
-    const cards = document.querySelectorAll(".card");
-
-    function update() {
-      const q = input.value.toLowerCase();
-      let visible = 0;
-
-      cards.forEach((card) => {
-        const title = card.dataset.title || "";
-        const show = title.includes(q);
-
-        card.style.display = show ? "block" : "none";
-        if (show) visible++;
-      });
-
-      count.textContent = `${visible} of ${cards.length} posts`;
-    }
-
-    input?.addEventListener("input", update);
-    update();
-
-    document.getElementById("listView")?.addEventListener("click", () => {
-      document.body.classList.remove("large-view");
-    });
-
-    document.getElementById("largeView")?.addEventListener("click", () => {
-      document.body.classList.add("large-view");
-    });
-  </script>
 </Layout>
