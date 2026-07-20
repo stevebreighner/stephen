@@ -60,3 +60,37 @@ posts.sort(
     </div>
   </div>
 </Layout>
+
+<script>
+  const search = document.querySelector("#search");
+  const cards = document.querySelectorAll("#posts .card");
+
+  // Search posts
+  search?.addEventListener("input", () => {
+    const query = search.value.toLowerCase().trim();
+
+    cards.forEach((card) => {
+      const title = card.dataset.title || "";
+      const text = card.textContent?.toLowerCase() || "";
+
+      card.style.display =
+        title.includes(query) || text.includes(query) ? "" : "none";
+    });
+  });
+
+
+  // List / large view toggle
+  const postsContainer = document.querySelector("#posts");
+  const listButton = document.querySelector("#listView");
+  const largeButton = document.querySelector("#largeView");
+
+  listButton?.addEventListener("click", () => {
+    postsContainer?.classList.add("list-view");
+    postsContainer?.classList.remove("large-view");
+  });
+
+  largeButton?.addEventListener("click", () => {
+    postsContainer?.classList.add("large-view");
+    postsContainer?.classList.remove("list-view");
+  });
+</script>
