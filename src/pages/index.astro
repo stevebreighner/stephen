@@ -4,7 +4,12 @@ import Layout from "../layouts/Layout.astro";
 
 <Layout title="Stephen Breighner">
   <section class="hero">
-    <img src="/trinity.webp" alt="Featured artwork" />
+<img
+  src="/trinity.webp"
+  alt="Featured artwork"
+  loading="eager"
+  fetchpriority="high"
+/>
 
     <div class="overlay">
       <p class="tag">Featured Work</p>
