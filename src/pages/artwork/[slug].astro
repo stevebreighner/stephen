@@ -68,7 +68,10 @@ const canBuy = price && status.toLowerCase() !== "sold";
 )}
 
 {canBuy && (
-  <form class="buy-form" method="post" action="https://www.stephenbreighner.com/stripe/create-checkout-session.php">
+  <form class="buy-form" method="post"
+action="https://stripe-worker.steve-breighner.workers.dev/create-checkout-session"
+>
+
     <input type="hidden" name="artwork_slug" value={slug} />
     <button type="submit">Buy Now</button>
   </form>
