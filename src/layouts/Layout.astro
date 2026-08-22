@@ -1,5 +1,5 @@
 ---
-const { title = "Stephen Breighner" } = Astro.props;
+const { title = "Cards By Margaret" } = Astro.props;
 
 import "../styles/global.css";
 ---
@@ -8,46 +8,44 @@ import "../styles/global.css";
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Cards By Margaret — artwork, cards, and paintings by Margaret McKeough Breighner." />
   <title>{title}</title>
 </head>
 
 <body>
 
-<!-- HEADER -->
 <header class="header">
-  <div class="brand">SB</div>
+  <a class="brand" href="/">CARDS BY MARGARET</a>
 
-  <button class="hamburger" id="menuBtn">☰</button>
+  <button class="hamburger" id="menuBtn" aria-label="Open menu">☰</button>
 </header>
 
-<!-- FULLSCREEN MENU -->
 <div class="menu" id="menu">
   <nav>
-   
+    <a href="/">Home</a>
     <a href="/artwork">Artwork</a>
+    <a href="/about">About</a>
     <a href="/blog">Blog</a>
-    <a href="/writings">Writings</a>
-      
+    <a href="/classes">Lessons</a>
+    <a href="/contact">Contact</a>
   </nav>
 </div>
 
-<!-- PAGE CONTENT -->
 <main>
   <slot />
 </main>
 
-<!-- FOOTER -->
 <footer class="footer">
-  <span>© 2026 <a id = "sb" href="/contact">SB</a></span>
-  <a href="/tos">Terms of Service</a>
+  <span>© {new Date().getFullYear()} Cards By Margaret</span>
+  <a href="/contact">Contact</a>
 </footer>
-<!-- MENU SCRIPT -->
+
 <script>
   const btn = document.getElementById("menuBtn");
   const menu = document.getElementById("menu");
 
   btn?.addEventListener("click", () => {
-    menu.classList.toggle("open");
+    menu?.classList.toggle("open");
   });
 
   menu?.addEventListener("click", (e) => {
@@ -56,34 +54,6 @@ import "../styles/global.css";
     }
   });
 </script>
-<style>.footer {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 1rem;
-  margin-top: 5rem;
-  padding: 2rem 0;
-  font-size: 0.85rem;
-  opacity: 0.65;
-}
 
-.footer a {
-  color: inherit;
-  text-decoration: none;
-}
-a#sb{text-decoration:underline;}
-
-.footer a:hover {
-  opacity: 1;
-}
-
-@media (max-width: 700px) {
-  .footer {
-    flex-direction: column;
-    gap: 0.5rem;
-    text-align: center;
-  }
-}</style>
 </body>
 </html>
-
