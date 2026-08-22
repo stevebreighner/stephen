@@ -1,82 +1,114 @@
 ---
-import PageLayout from "../layouts/PageLayout.astro";
+import { getCollection } from "astro:content";
+import Layout from "../layouts/Layout.astro";
 
-const cards = [
-  ["Angels", "angels.jpg"],
-  ["Cats", "cats.jpg"],
-  ["Cows", "cows.jpg"],
-  ["Dogs", "dogs.jpg"],
-  ["Fish", "fish_1.jpg"],
-  ["Flowers", "flowers_1.jpg"],
-  ["Flowers in a Vase", "flowers_vase_1.jpg"],
-  ["Fruit", "fruitbowl_1.jpg"],
-  ["Houses", "houses_1.jpg"],
-  ["Irish", "irish_1.jpg"],
-  ["Ladybug", "ladybug_1.jpg"],
-  ["Leaves", "leaves_1.jpg"],
-  ["Sailboats", "sailboats_1.jpg"],
-  ["Thanks", "thanks_1.jpg"],
-];
+const cards = await getCollection("cards");
 ---
 
-<PageLayout title="Cards">
+<Layout title="Cards — Cards By Margaret">
 
-<h1>Cards</h1>
+<section class="cards-page">
+  <div class="intro">
+    <p class="eyebrow">CARDS BY MARGARET</p>
+    <h1>Cards</h1>
+    <p>Choose a card to see the artwork and order.</p>
+  </div>
 
-<p class="intro">
-  Handmade cards featuring Margaret's original artwork.
-</p>
+  <div class="gallery">
+    {cards.map((card) => (
+      <a class="card" href={`/artwork/${card.id}/`}>
+        <div class="image-wrap">
+          <img src={card.data.image} alt={card.data.title} loading="lazy" />
+        </div>
+        <h2>{card.data.title}</h2>
+        <p>${card.data.price}</p>
+      </a>
+    ))}
+  </div>
+</section>
 
-<div class="gallery">
-  {cards.map(([title, image]) => (
-    <a class="card" href={`/images/${image}`}>
-      <img src={`/images/${image}`} alt={title} loading="lazy" />
-      <h2>{title}</h2>
-    </a>
-  ))}
-</div>
-
-</PageLayout>
+</Layout>
 
 <style>
+.cards-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 5rem 1.5rem;
+}
+
 .intro {
-  color: var(--muted);
-  margin-bottom: 2rem;
+  max-width: 650px;
+  margin-bottom: 4rem;
+}
+
+.eyebrow {
+  font-size: 11px;
+  letter-spacing: .2em;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-family: Georgia, serif;
+  font-size: clamp(3rem, 7vw, 6rem);
+  font-weight: 400;
+  margin: 0 0 1rem;
+}
+
+.intro > p:last-child {
+  color: #666;
 }
 
 .gallery {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 24px;
+  gap: 2rem;
 }
 
 .card {
-  display: block;
   color: inherit;
-  border: 0;
+  text-decoration: none;
 }
 
-.card img {
+.image-wrap {
+  background: #f5f5f3;
+  overflow: hidden;
+}
+
+.image-wrap img {
   display: block;
   width: 100%;
   aspect-ratio: 3 / 4;
-  object-fit: cover;
-}
-
-.card h2 {
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.25rem;
-  font-weight: 400;
-  margin: .7rem 0 0;
+  object-fit: contain;
+  transition: transform .25s ease;
 }
 
 .card:hover img {
-  opacity: .9;
+  transform: scale(1.03);
 }
 
-@media (max-width: 800px) {
+.card h2 {
+  font-family: Georgia, serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin: .8rem 0 .2rem;
+}
+
+.card p {
+  margin: 0;
+  color: #666;
+  font-size: .9rem;
+}
+
+@media (max-width: 900px) {
+  .gallery {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
   .gallery {
     grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
   }
 }
 </style>
