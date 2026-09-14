@@ -9,45 +9,65 @@ import "../styles/global.css";
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{title}</title>
+
+  <style>
+    #cart-indicator {
+      display: none;
+      position: absolute;
+      top: 4px;
+      right: 4px;
+      width: 8px;
+      height: 8px;
+      background: #1976d2;
+      border-radius: 50%;
+      border: 2px solid white;
+    }
+
+    #cart-indicator.has-items {
+      display: block;
+    }
+  </style>
 </head>
 
 <body>
 
-<!-- HEADER -->
 <header class="header">
   <div class="brand">SB</div>
 
-  <button class="hamburger" id="menuBtn">☰</button>
+  <button
+    class="hamburger"
+    id="menuBtn"
+    aria-label="Open menu"
+  >
+    ☰
+    <span id="cart-indicator" aria-hidden="true"></span>
+  </button>
 </header>
 
-<!-- FULLSCREEN MENU -->
 <div class="menu" id="menu">
   <nav>
-   
     <a href="/artwork">Artwork</a>
     <a href="/blog">Blog</a>
     <a href="/writings">Writings</a>
-      
+    <a href="/cart/">Cart</a>
   </nav>
 </div>
 
-<!-- PAGE CONTENT -->
 <main>
   <slot />
 </main>
 
-<!-- FOOTER -->
 <footer class="footer">
-  <span>© 2026 <a id = "sb" href="/contact">SB</a></span>
+  <span>© 2026 <a id="sb" href="/contact">SB</a></span>
   <a href="/tos">Terms of Service</a>
 </footer>
-<!-- MENU SCRIPT -->
+
 <script>
   const btn = document.getElementById("menuBtn");
   const menu = document.getElementById("menu");
 
   btn?.addEventListener("click", () => {
-    menu.classList.toggle("open");
+    menu?.classList.toggle("open");
   });
 
   menu?.addEventListener("click", (e) => {
@@ -55,8 +75,37 @@ import "../styles/global.css";
       menu.classList.remove("open");
     }
   });
+
+  const cartIndicator =
+    document.getElementById("cart-indicator");
+
+  function updateCartIndicator() {
+    if (!cartIndicator) return;
+
+    try {
+      const cart = JSON.parse(
+        localStorage.getItem("stephen-cart") || "[]"
+      );
+
+      cartIndicator.classList.toggle(
+        "has-items",
+        cart.length > 0
+      );
+    } catch {
+      cartIndicator.classList.remove("has-items");
+    }
+  }
+
+  updateCartIndicator();
+
+  window.addEventListener(
+    "storage",
+    updateCartIndicator
+  );
 </script>
-<style>.footer {
+
+<style>
+.footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -71,7 +120,10 @@ import "../styles/global.css";
   color: inherit;
   text-decoration: none;
 }
-a#sb{text-decoration:underline;}
+
+a#sb {
+  text-decoration: underline;
+}
 
 .footer a:hover {
   opacity: 1;
@@ -83,7 +135,8 @@ a#sb{text-decoration:underline;}
     gap: 0.5rem;
     text-align: center;
   }
-}</style>
+}
+</style>
+
 </body>
 </html>
-

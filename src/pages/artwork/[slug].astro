@@ -2,25 +2,23 @@
 import PageLayout from "../../layouts/PageLayout.astro";
 
 export function getStaticPaths() {
+  const artwork = Object.entries(
+    import.meta.glob("../../content/artwork/*.md", {
+      eager: true,
+    })
+  );
 
-const artwork = Object.entries(
-  import.meta.glob("../../content/artwork/*.md", {
-    eager: true,
-  })
-);
-
-return artwork.map(([path, piece]) => ({
-  params: {
-    slug: path
-      .split("/")
-      .pop()
-      .replace(".md",""),
-  },
-  props: {
-    piece,
-  },
-}));
-
+  return artwork.map(([path, piece]) => ({
+    params: {
+      slug: path
+        .split("/")
+        .pop()
+        .replace(".md", ""),
+    },
+    props: {
+      piece,
+    },
+  }));
 }
 
 const { piece } = Astro.props;
@@ -33,7 +31,7 @@ const canBuy = price && status.toLowerCase() !== "sold";
 <PageLayout title={piece.frontmatter.title}>
 
 <a class="back" href="/artwork">
-← Back
+  ← Back
 </a>
 
 <h1>{piece.frontmatter.title}</h1>
@@ -45,19 +43,13 @@ const canBuy = price && status.toLowerCase() !== "sold";
 />
 
 <p>
-
-<strong>Medium:</strong>
-
-{piece.frontmatter.medium}
-
+  <strong>Medium:</strong>
+  {piece.frontmatter.medium}
 </p>
 
 <p>
-
-<strong>Size:</strong>
-
-{piece.frontmatter.size}
-
+  <strong>Size:</strong>
+  {piece.frontmatter.size}
 </p>
 
 {price && (
@@ -68,14 +60,54 @@ const canBuy = price && status.toLowerCase() !== "sold";
 )}
 
 {canBuy && (
-  <form class="buy-form" method="post"
-action="https://stripe-worker.steve-breighner.workers.dev/create-checkout-session"
->
-
-    <input type="hidden" name="artwork_slug" value={slug} />
-    <button type="submit">Buy Now</button>
-  </form>
+  <button
+    class="buy-form"
+    id="add-to-cart"
+    type="button"
+  >
+    Add to Cart
+  </button>
 )}
+<script define:vars={{
+  slug,
+  title: piece.frontmatter.title,
+  image: piece.frontmatter.image,
+  price
+}}>
+  const button = document.querySelector("#add-to-cart");
+
+  if (button) {
+    button.addEventListener("click", () => {
+      const cart = JSON.parse(
+        localStorage.getItem("stephen-cart") || "[]"
+      );
+
+      const alreadyInCart = cart.some(
+        item => item.slug === slug
+      );
+
+      if (alreadyInCart) {
+        alert("This artwork is already in your cart.");
+        return;
+      }
+
+      cart.push({
+        slug,
+        title,
+        image,
+        price: Number.parseFloat(price),
+        quantity: 1,
+      });
+
+      localStorage.setItem(
+        "stephen-cart",
+        JSON.stringify(cart)
+      );
+
+      window.location.href = "/cart/";
+    });
+  }
+</script>
 
 <div class="content">
   <piece.Content />
@@ -85,11 +117,8 @@ action="https://stripe-worker.steve-breighner.workers.dev/create-checkout-sessio
 
 <style>
 .buy-form {
-  margin: 1.25rem 0;
-}
-
-.buy-form button {
   appearance: none;
+  margin: 1.25rem 0;
   border: 1px solid var(--text);
   background: var(--text);
   color: var(--bg);
@@ -98,9 +127,11 @@ action="https://stripe-worker.steve-breighner.workers.dev/create-checkout-sessio
   padding: 0.7rem 1rem;
 }
 
-.buy-form button:hover {
+.buy-form:hover {
   transform: translateY(-1px);
-}.hero-image {
+}
+
+.hero-image {
   width: 100%;
   height: auto;
   max-height: 75vh;
@@ -109,21 +140,18 @@ action="https://stripe-worker.steve-breighner.workers.dev/create-checkout-sessio
   margin: 1rem auto;
 }
 
-/* mobile tuning */
 @media (max-width: 768px) {
   .hero-image {
     max-height: 65vh;
   }
 }
 
-/* optional: slightly better visual framing */
 .content img {
   max-width: 100%;
   height: auto;
   display: block;
 }
 
-/* optional: improve spacing around page */
 .page {
   padding: 1rem 1.25rem;
 }
