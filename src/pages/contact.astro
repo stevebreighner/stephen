@@ -1,44 +1,110 @@
 ---
-import PageLayout from "../layouts/PageLayout.astro";
----
 
+ import PageLayout from "../layouts/PageLayout.astro";
+---
 <PageLayout title="Contact">
   <h1>Contact</h1>
 
-<form
-  action="https://formspree.io/f/xanoeyok"
-  method="POST"
-  class="contact-form"
->
-  <input
-    type="text"
-    name="name"
-  
-    required
-  />
+  <form
+    action="https://formspree.io/f/xanoeyok"
+    method="POST"
+    class="contact-form"
+  >
+    <label for="name">Name</label>
+    <input
+      id="name"
+      type="text"
+      name="name"
+      placeholder="Your name"
+      autocomplete="name"
+      required
+    />
 
-  <input
-    type="email"
-    name="email"
-    
-    required
-  />
+<label for="email">Email</label>
+<input
+  id="email"
+  type="email"
+  name="email"
+  placeholder="you@example.com"
+  autocomplete="email"
+  required
+/>
 
-  <input
-    type="text"
-    name="subject"
- 
-  />
+<label for="subject">Subject</label>
+<input
+  id="subject"
+  type="text"
+  name="subject"
+  placeholder="What's on your mind?"
+/>
 
-  <textarea
-    name="message"
-    rows="8"
-     
-    required
-  ></textarea>
+<label for="message">Message</label>
+<textarea
+  id="message"
+  name="message"
+  rows="8"
+  placeholder="Write your message here..."
+  required
+></textarea>
 
-  <button type="submit">
+<button type="submit">Send Message</button>
 
-  </button>
-</form>
+  </form>
 </PageLayout>
+
+
+<style>
+  .contact-form {
+    max-width: 650px;
+    margin: 2rem auto 4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+  }
+
+  .contact-form label {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    letter-spacing: 0.04em;
+  }
+
+  .contact-form input,
+  .contact-form textarea {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.9rem 1rem;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    background: transparent;
+    font: inherit;
+  }
+
+  .contact-form textarea {
+    resize: vertical;
+    min-height: 180px;
+  }
+
+  .contact-form input:focus,
+  .contact-form textarea:focus {
+    outline: none;
+    border-color: currentColor;
+  }
+
+  .contact-form button {
+    align-self: flex-start;
+    margin-top: 1.2rem;
+    padding: 0.8rem 1.5rem;
+    border: 1px solid currentColor;
+    border-radius: 4px;
+    background: transparent;
+    color: inherit;
+    font: inherit;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .contact-form button:hover {
+    background: currentColor;
+    color: white;
+  }
+</style>
