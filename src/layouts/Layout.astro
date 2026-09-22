@@ -8,10 +8,11 @@ import "../styles/global.css";
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>{title}</title><meta
-  name="description"
-  content="Explore paintings and illustrations by artist Stephen Breighner, including recent artwork, studio work, and selected pieces."
-/>
+  <title>{title}</title>
+  <meta
+    name="description"
+    content="Explore paintings and illustrations by artist Stephen Breighner, including recent artwork, studio work, and selected pieces."
+  />
 
   <style>
     #cart-indicator {
@@ -41,6 +42,7 @@ import "../styles/global.css";
     class="hamburger"
     id="menuBtn"
     aria-label="Open menu"
+    aria-expanded="false"
   >
     ☰
     <span id="cart-indicator" aria-hidden="true"></span>
@@ -48,12 +50,24 @@ import "../styles/global.css";
 </header>
 
 <div class="menu" id="menu">
-  <nav>
-    <a href="/artwork">Artwork</a>
-    <a href="/blog">Blog</a>
-    <a href="/writings">Writings</a>
-    <a href="/cart/">Cart</a>
-    <a href="/websites">Buy this Site</a>
+  <nav class="menu-nav">
+    <!-- Primary Content -->
+    <div class="nav-group">
+      <a href="/artwork">Artwork</a>
+      <a href="/blog">Blog</a>
+      <a href="/writings">Writings</a>
+    </div>
+
+    <!-- Secondary Utilities -->
+    <div class="nav-group secondary">
+      <a href="/cart/">Cart</a>
+      <a href="/contact/">Contact</a>
+    </div>
+
+    <!-- Call to Action -->
+    <div class="nav-group cta">
+      <a href="/websites" class="cta-link">Buy this Site</a>
+    </div>
   </nav>
 </div>
 
@@ -71,12 +85,14 @@ import "../styles/global.css";
   const menu = document.getElementById("menu");
 
   btn?.addEventListener("click", () => {
-    menu?.classList.toggle("open");
+    const isOpen = menu?.classList.toggle("open");
+    btn.setAttribute("aria-expanded", isOpen ? "true" : "false");
   });
 
   menu?.addEventListener("click", (e) => {
     if (e.target === menu) {
       menu.classList.remove("open");
+      btn?.setAttribute("aria-expanded", "false");
     }
   });
 
@@ -109,6 +125,45 @@ import "../styles/global.css";
 </script>
 
 <style>
+/* Navigation Menu Clean Structure */
+.menu-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.nav-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.nav-group.secondary {
+  padding-top: 1rem;
+  border-top: 1px solid rgba(128, 128, 128, 0.2);
+}
+
+.nav-group.cta {
+  margin-top: 0.5rem;
+}
+
+.cta-link {
+  display: inline-block;
+  align-self: flex-start;
+  padding: 0.5rem 1rem;
+  border: 1px solid currentColor;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  transition: opacity 0.2s ease;
+}
+
+.cta-link:hover {
+  opacity: 0.8;
+}
+
+/* Footer Styling */
 .footer {
   display: flex;
   justify-content: space-between;
