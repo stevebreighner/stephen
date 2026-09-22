@@ -1,6 +1,5 @@
 ---
-
- import PageLayout from "../layouts/PageLayout.astro";
+import PageLayout from "../layouts/PageLayout.astro";
 ---
 <PageLayout title="Contact">
   <h1>Contact</h1>
@@ -10,48 +9,39 @@
     method="POST"
     class="contact-form"
   >
-    <label for="name">Name</label>
     <input
       id="name"
       type="text"
       name="name"
-      placeholder="Your name"
+      placeholder="Name"
+      aria-label="Name"
       autocomplete="name"
+      required
+      autofocus
+    />
+
+    <input
+      id="email"
+      type="email"
+      name="email"
+      placeholder="Email address"
+      aria-label="Email address"
+      autocomplete="email"
       required
     />
 
-<label for="email">Email</label>
-<input
-  id="email"
-  type="email"
-  name="email"
-  placeholder="you@example.com"
-  autocomplete="email"
-  required
-/>
+    <textarea
+      id="message"
+      name="message"
+      rows="6"
+      placeholder="Write your message here..."
+      aria-label="Message"
+      required
+    ></textarea>
 
-<label for="subject">Subject</label>
-<input
-  id="subject"
-  type="text"
-  name="subject"
-  placeholder="What's on your mind?"
-/>
-
-<label for="message">Message</label>
-<textarea
-  id="message"
-  name="message"
-  rows="8"
-  placeholder="Write your message here..."
-  required
-></textarea>
-
-<button type="submit">Send Message</button>
-
+    <button type="submit">Send Message</button>
   </form>
 </PageLayout>
-
 
 <style>
   .contact-form {
@@ -59,13 +49,7 @@
     margin: 2rem auto 4rem;
     display: flex;
     flex-direction: column;
-    gap: 0.6rem;
-  }
-
-  .contact-form label {
-    margin-top: 1rem;
-    font-size: 0.9rem;
-    letter-spacing: 0.04em;
+    gap: 0.8rem;
   }
 
   .contact-form input,
@@ -81,7 +65,7 @@
 
   .contact-form textarea {
     resize: vertical;
-    min-height: 180px;
+    min-height: 160px;
   }
 
   .contact-form input:focus,
@@ -92,19 +76,20 @@
 
   .contact-form button {
     align-self: flex-start;
-    margin-top: 1.2rem;
+    margin-top: 0.5rem;
     padding: 0.8rem 1.5rem;
     border: 1px solid currentColor;
     border-radius: 4px;
-    background: transparent;
-    color: inherit;
+    background: Canvas;
+    color: CanvasText;
     font: inherit;
     cursor: pointer;
     transition: all 0.2s ease;
   }
 
   .contact-form button:hover {
-    background: currentColor;
-    color: white;
+    background: CanvasText;
+    color: Canvas;
+    border-color: CanvasText;
   }
 </style>
